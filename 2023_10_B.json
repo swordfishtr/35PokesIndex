@@ -1,0 +1,47 @@
+{
+    "rules": {
+        "relative": "2023_10.json"
+    },
+    "ban": [
+        "mimikyu",
+        "scovillain",
+        "lycanroc",
+        "jolteon",
+        "bisharp",
+        "togekiss",
+        "starmie",
+        "rotom",
+        "falinks",
+        "magnezone",
+        "dondozo",
+        "brambleghast",
+        "goodra",
+        "articuno"
+    ],
+    "add": [
+        "mr. rime",
+        "ariados",
+        "pachirisu",
+        "ambipom",
+        "volbeat",
+        "centiskorch",
+        "shiinotic",
+        "poliwrath",
+        "stoutland",
+        "banette",
+        "aurorus",
+        "mawile",
+        "xatu",
+        "sableye",
+        "orthworm",
+        "rotom-mow",
+        "sandslash-alola",
+        "toxicroak",
+        "roserade",
+        "lopunny",
+        "luxray",
+        "solrock",
+        "cryogonal",
+        "noctowl"
+    ]
+}
