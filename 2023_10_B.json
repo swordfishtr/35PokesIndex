@@ -1,6 +1,6 @@
 {
     "rules": {
-        "relative": "2023_10.json"
+        "parent": "2023_10.json"
     },
     "ban": [
         "mimikyu",
