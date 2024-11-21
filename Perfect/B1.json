@@ -6,63 +6,77 @@
     "meta": {
         "empoleon": {
             "abilities": [true, true, true, "Sand Stream"],
-            "addMoves": ["Anchor Shot"]
+            "addMoves": ["Anchor Shot"],
+            "banMoves": ["Defog", "Flip Turn", "Stealth Rock"]
         },
         "articuno": {
             "abilities": [true, true, true, "Snow Warning"],
-            "addMoves": ["Baton Pass"]
+            "addMoves": ["Baton Pass"],
+            "banMoves": ["Defog", "U-turn"]
         },
         "electivire": {
-            "addMoves": ["Encore"]
+            "addMoves": ["Encore"],
+            "banMoves": ["Electric Terrain", "Volt Switch"]
         },
         "rapidash": {
             "abilities": [true, true, true, "Regenerator"],
             "addMoves": ["Rapid Spin"]
         },
         "klinklang": {
-            "addMoves": ["Superpower"]
+            "addMoves": ["Superpower"],
+            "banMoves": ["Electric Terrain", "Volt Switch"]
         },
         "farigiraf": {
             "abilities": [true, true, true, "Tough Claws"],
-            "addMoves": ["Fire Fang"]
+            "addMoves": ["Fire Fang"],
+            "banMoves": ["Psychic Terrain"]
         },
         "seismitoad": {
-            "addMoves": ["Bulk Up", "Roar"]
+            "addMoves": ["Bulk Up", "Roar"],
+            "banMoves": ["Stealth Rock"]
         },
         "raichu-alola": {
-            "abilities": [true, true, true, "Swift Swim"]
+            "abilities": [true, true, true, "Swift Swim"],
+            "banMoves": ["Electric Terrain", "Psychic Terrain", "Volt Switch"]
         },
         "noivern": {
-            "addMoves": ["Pursuit", "Haze"]
+            "addMoves": ["Pursuit", "Haze"],
+            "banMoves": ["Defog", "U-turn"]
         },
         "altaria": {
-            "addMoves": ["Salt Cure", "Wish"]
+            "addMoves": ["Salt Cure", "Wish"],
+            "banMoves": ["Defog"]
         },
         "claydol": {
             "abilities": [true, true, true, "Scrappy"],
-            "addMoves": ["Baton Pass"]
+            "addMoves": ["Baton Pass"],
+            "banMoves": ["Psychic Terrain", "Stealth Rock"]
         },
         "armaldo": {
             "abilities": [true, true, true, "Unaware"],
-            "addMoves": ["Spikes"]
+            "addMoves": ["Spikes"],
+            "banMoves": ["Stealth Rock"]
         },
         "escavalier": {
             "addMoves": ["Speed Swap"]
         },
         "uxie": {
-            "addMoves": ["Whirlwind"]
+            "addMoves": ["Whirlwind"],
+            "banMoves": ["Stealth Rock", "U-turn"]
         },
         "glalie": {
             "abilities": [true, true, true, "Anger Shell"]
         },
         "centiskorch": {
-            "addMoves": ["First Impression", "Stone Edge"]
+            "addMoves": ["First Impression", "Hidden Power", "Stone Edge"]
         },
         "rotom": {
-            "addMoves": ["Hydro Pump", "Overhead"]
+            "addMoves": ["Hydro Pump", "Overhead"],
+            "banMoves": ["Defog", "Electric Terrain", "Volt Switch"]
         },
         "decidueye": {
-            "abilities": [true, true, true, "Sharpness"]
+            "abilities": [true, true, true, "Sharpness"],
+            "banMoves": ["Defog", "Grassy Terrain", "U-turn"]
         },
         "spiritomb": {
             "abilities": [true, true, true, "Cursed Body"],
@@ -70,16 +84,19 @@
         },
         "charizard": {
             "abilities": [true, true, true, "Dragon's Maw"],
-            "addMoves": ["Aeroblast"]
+            "addMoves": ["Aeroblast"],
+            "banMoves": ["Defog"]
         },
         "chesnaught": {
-            "abilities": [true, true, true, "Lingering Aroma"]
+            "abilities": [true, true, true, "Lingering Aroma"],
+            "banMoves": ["Grassy Terrain"]
         },
         "weezing": {
             "addMoves": ["Body Press"]
         },
         "wo-chien": {
-            "addMoves": ["Pursuit"]
+            "addMoves": ["Hidden Power", "Pursuit"],
+            "banMoves": ["Grassy Terrain"]
         },
         "lickilicky": {
             "addMoves": ["Slack Off"]
@@ -97,25 +114,31 @@
         },
         "nihilego": {
             "abilities": [true, true, true, "Solar Power"],
-            "addMoves": ["Hydro Steam", "Sunny Day"]
+            "addMoves": ["Hydro Steam", "Sunny Day"],
+            "banMoves": ["Stealth Rock"]
         },
         "persian-alola": {
-            "addMoves": ["Ceaseless Edge"]
+            "addMoves": ["Ceaseless Edge"],
+            "banMoves": ["U-turn"]
         },
         "probopass": {
             "abilities": [true, true, true, "Levitate"],
-            "addMoves": ["Spikes"]
+            "addMoves": ["Spikes"],
+            "banMoves": ["Stealth Rock", "Volt Switch"]
         },
         "donphan": {
             "abilities": [true, true, true, "Rocky Payload"],
-            "addMoves": ["Close Combat"]
+            "addMoves": ["Close Combat"],
+            "banMoves": ["Stealth Rock"]
         },
         "vespiquen": {
             "abilities": [true, true, true, "Magic Guard"],
-            "addMoves": ["Brave Bird"]
+            "addMoves": ["Brave Bird"],
+            "banMoves": ["Defog", "U-turn"]
         },
         "meganium": {
-            "addMoves": ["Fire Blast", "Take Away"]
+            "addMoves": ["Fire Blast", "Take Away"],
+            "banMoves": ["Grassy Terrain"]
         },
         "hakamo-o": {
             "abilities": [true, true, true, "Sword of Ruin"]
