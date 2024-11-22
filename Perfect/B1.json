@@ -71,7 +71,7 @@
             "addMoves": ["First Impression", "Hidden Power", "Stone Edge"]
         },
         "rotom": {
-            "addMoves": ["Hydro Pump", "Overhead"],
+            "addMoves": ["Hydro Pump", "Overheat"],
             "banMoves": ["Defog", "Electric Terrain", "Volt Switch"]
         },
         "decidueye": {
