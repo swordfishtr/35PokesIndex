@@ -137,7 +137,7 @@
             "banMoves": ["Defog", "U-turn"]
         },
         "meganium": {
-            "addMoves": ["Fire Blast", "Take Away"],
+            "addMoves": ["Fire Blast", "Take Heart"],
             "banMoves": ["Grassy Terrain"]
         },
         "hakamo-o": {
