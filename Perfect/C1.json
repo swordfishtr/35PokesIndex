@@ -1,0 +1,101 @@
+{
+    "dhelmise": {},
+    "liepard": {
+        "addMoves": ["Signal Beam", "Swords Dance"]
+    },
+    "weezing": {
+        "abilities": [true, true, true, "Cloud Nine"],
+        "addMoves": ["Rapid Spin"]
+    },
+    "wigglytuff": {
+        "abilities": [true, true, true, "Regenerator"]
+    },
+    "aromatisse": {},
+    "togedemaru": {},
+    "silvally": {
+        "abilities": [true, "Cloud Nine", true, true],
+        "addMoves": ["Stealth Rock", "Weather Ball"]
+    },
+    "gogoat": {
+        "abilities": [true, "Grassy Surge", true, true]
+    },
+    "hitmontop": {},
+    "solrock": {
+        "abilities": [true, "Psychic Surge", true, true],
+        "addMoves": ["Dragon Dance"]
+    },
+    "raichu-alola": {},
+    "lickilicky": {
+        "abilities": [true, true, true, "Misty Surge"]
+    },
+    "dedenne": {
+        "addMoves": ["Growth", "Moonblast"]
+    },
+    "klinklang": {
+        "abilities": [true, true, true, "Electric Surge"],
+        "addMoves": ["Spikes"]
+    },
+    "leavanny": {},
+    "exeggutor": {},
+    "steelix": {
+        "abilities": [true, true, "Sand Force", "Rocky Payload"]
+    },
+    "medicham": {
+        "addMoves": ["Jet Punch", "Seed Bomb"]
+    },
+    "jynx": {
+        "abilities": [true, true, true, "Sap Sipper"]
+    },
+    "wailord": {
+        "abilities": [true, true, true, "Unaware"],
+        "addMoves": ["Thunder"]
+    },
+    "rotom-frost": {
+        "abilities": [true, "Refrigerate", true, true]
+    },
+    "magcargo": {
+        "abilities": [true, true, true, "Drought"]
+    },
+    "camerupt": {
+        "addMoves": ["Shore Up"]
+    },
+    "palossand": {
+        "abilities": [true, "Sand Stream", true, true]
+    },
+    "relicanth": {
+        "abilities": [true, true, true, "Sand Rush"],
+        "addMoves": ["Hone Claws"]
+    },
+    "lumineon": {
+        "abilities": [true, true, true, "Drizzle"]
+    },
+    "granbull": {
+        "abilities": [true, true, true, "Slush Rush"],
+        "addMoves": ["Draiin Punch"]
+    },
+    "delibird": {
+        "abilities": [true, true, true, "Snow Warning"],
+        "addMoves": ["Beak Blast", "Roost"]
+    },
+    "talonflame": {},
+    "haunter": {
+        "abilities": [true, "Flash Fire", true, true],
+        "addMoves": ["Flamethrower"]
+    },
+    "guzzlord": {
+        "abilities": [true, "Well-Baked Body", "Earth Eater", "Volt Absorb"],
+        "addMoves": ["Stealth Rock"]
+    },
+    "mabosstiff": {
+        "abilities": [true, true, true, "Strong Jaw"]
+    },
+    "toxicroak": {
+        "abilities": [true, true, true, "Lightning Rod"]
+    },
+    "mothim": {
+        "addMoves": ["Blizzard", "Hurricane"]
+    },
+    "avalugg": {
+        "abilities": [true, true, true, "Bulletproof"]
+    }
+}
