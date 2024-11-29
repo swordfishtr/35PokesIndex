@@ -71,7 +71,7 @@
     },
     "granbull": {
         "abilities": [true, true, true, "Slush Rush"],
-        "addMoves": ["Draiin Punch"]
+        "addMoves": ["Drain Punch"]
     },
     "delibird": {
         "abilities": [true, true, true, "Snow Warning"],
