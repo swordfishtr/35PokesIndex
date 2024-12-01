@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "codePrefix": "/challenge gen9nationaldexdoubles @@@ Picked Team Size = 4, Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, -Hidden Power, -Kings Rock, -Shadow Tag, -Battle Bond, Forme Clause, Item Clause = 1, Evasion Clause, OHKO Clause, Baton Pass Stat Trap Clause, Force Open Team Sheets, -Nonexistent, -Unobtainable, +Past, +Coaching, -All Pokemon, +",
+        "parent": "2024_06.json"
+    },
+    "ban": [],
+    "add": []
+}
