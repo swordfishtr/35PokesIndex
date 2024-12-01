@@ -14,7 +14,7 @@
     "togedemaru": {},
     "silvally": {
         "abilities": [true, "Cloud Nine", true, true],
-        "addMoves": ["Stealth Rock", "Weather Ball"]
+        "addMoves": ["Stealth Rock"]
     },
     "gogoat": {
         "abilities": [true, "Grassy Surge", true, true]
