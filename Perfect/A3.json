@@ -20,8 +20,7 @@
     "runerigus": {},
     "trapinch": {},
     "dugtrio-alola": {},
-    "silvally-grass": {},
-    "silvally": {
+    "silvally-grass": {
         "addMoves": ["Jungle Healing", "Leaf Storm"]
     },
     "terapagos": {
