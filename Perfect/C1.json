@@ -26,7 +26,8 @@
     },
     "raichu-alola": {},
     "lickilicky": {
-        "abilities": [true, true, true, "Misty Surge"]
+        "abilities": [true, true, true, "Misty Surge"],
+        "addMoves": ["Stealth Rock"]
     },
     "dedenne": {
         "addMoves": ["Growth", "Moonblast"]
