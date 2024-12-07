@@ -1,5 +1,6 @@
 {
     "rules": {
+        "codePrefix": "/challenge gen9nationaldex35pokes @@@ -All Pokemon, +",
         "parent": "2023_10.json"
     },
     "ban": [
