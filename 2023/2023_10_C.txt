@@ -1,0 +1,17 @@
+Oct 2023 C (TESTING)
+parent: 2023/2023_10_B.txt
+-sableye
+-orthworm
+-rotom-mow
+-sandslash-alola
+-toxicroak
+-roserade
+-lopunny
++wooper
++wooper
++wooper
++wooper
++wooper
++wooper-paldea
++wooper
++wooper
