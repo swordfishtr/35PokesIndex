@@ -1,0 +1,112 @@
+May 2024 Monocolor
+code: ...+
+Red; header
+Kingler
+Scizor
+Braviary
+Crustle
+Klawf
+Druddigon
+Wugtrio
+Krookodile
+Armarouge
+Magmortar
+Blue; header
+Wailord
+Jumpluff
+Blastoise
+Sandslash-Alola
+Empoleon
+Nidoqueen
+Eelektross
+Aurorus
+Gastrodon-East
+Tangrowth
+Yellow; header
+Ribombee
+Vespiquen
+Sunflora
+Ampharos
+Cofagrigus
+Hypno
+Falinks
+Ninetales
+Typhlosion
+Exeggutor
+Green; header
+Carnivine
+Kecleon
+Yanmega
+Araquanid
+Garbodor
+Sceptile
+Politoed
+Appletun
+Tyranitar
+Golurk
+Black; header
+Claydol
+Toucannon
+Houndoom
+Toedscruel
+Umbreon
+Banette
+Mawile
+Snorlax
+Seviper
+Raticate-Alola
+Brown; header
+Minior
+Shiftry
+Brambleghast
+Perrserker
+Dachsbun
+Torkoal
+Barbaracle
+Dragalge
+Clodsire
+Dugtrio
+Purple; header
+Drifblim
+Aerodactyl
+Ambipom
+Noivern
+Weezing
+Starmie
+Goodra
+Drapion
+Pincurchin
+Gastrodon
+Gray; header
+Unfezant
+Grafaiai
+Hakamo-o
+Golem-Alola
+Probopass
+Donphan
+Golisopod
+Veluza
+Steelix
+Machamp
+Pink; header
+Mesprit
+Lurantis
+Bewear
+Flamigo
+Tinkaton
+Clefable
+Milotic
+Orthworm
+Hatterene
+Slowbro
+White; header
+Togekiss
+Frosmoth
+Cursola
+Amoonguss
+Absol
+Gardevoir
+Dubwool
+Alcremie
+Maushold
+Pachirisu

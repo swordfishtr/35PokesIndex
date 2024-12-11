@@ -1,0 +1,18 @@
+LC April Fools 2024
+parent: Babies/2024_04.txt
+-wooper-paldea
+-charcadet
+-patrat
+-meowth
+-capsakid
+-pidgey
+-vanillite
+-gimmighoul
++chi-yu
++duraludon
++scyther
++swirlix
++honedge
++sneasel
++cosmog
++sneasel-hisui

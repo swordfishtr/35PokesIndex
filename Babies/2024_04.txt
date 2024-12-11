@@ -1,0 +1,37 @@
+LC Apr 2024
+code: /challenge gen9nationaldexlc @@@ DryPass Clause, Forme Clause, Z-Move Clause, Terastal Clause, +Sticky Web -All Pokemon, +
+magikarp
+toxel
+noibat
+mareanie
+wooper-paldea
+cyndaquil
+sinistea
+fomantis
+silicobra
+charcadet
+meowth-galar
+slowpoke
+bagon
+lechonk
+machop
+patrat
+meowth
+capsakid
+pidgey
+nosepass
+shroodle
+baltoy
+zigzagoon-galar
+nickit
+froakie
+drilbur
+bounsweet
+porygon
+magnemite
+paras
+cubone
+vanillite
+sandshrew-alola
+gimmighoul
+lotad

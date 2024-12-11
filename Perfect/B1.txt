@@ -1,0 +1,37 @@
+Vision B, Version 1
+code: /challenge gen3customgame @@@ Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, Forme Clause, -Last Respects, -Stealth Rock, -U-Turn, -Volt Switch, -Flip Turn, -Teleport, -Choice Scarf, -Heavy-Duty Boots, -Defog, -Electric Terrain, -Psychic Terrain, -Misty Terrain, -Grassy Terrain, -Kings Rock, -Acupressure, -Quick Claw, -Razor Fang, -Moody, Evasion Clause, OHKO Clause, One Boost Passer Clause, -All Pokemon, +
+empoleon;      abilities: 4: sand stream; moves: -defog, -flip turn, -stealth rock, +anchor shot;
+articuno;      abilities: 4: snow warning; moves: -defog, -uturn, +baton pass;
+electivire;    moves: -electric terrain, -volt switch, +encore;
+rapidash;      abilities: 4: regenerator; moves: +rapid spin;
+klinklang;     moves: -electric terrain, -volt switch, +superpower;
+farigiraf;     abilities: 4: tough claws; moves: -psychic terrain, +fire fang;
+seismitoad;    moves: -stealth rock, +bulk up, +roar;
+raichu-alola;  abilities: 4: swift swim; moves: -electric terrain, -psychic terrain, -volt switch;
+noivern;       moves: -defog, -uturn, +pursuit, +haze;
+altaria;       moves: -defog, +salt cure, +wish;
+claydol;       abilities: 4: scrappy; moves: -psychic terrain, -stealth rock, +baton pass;
+armaldo;       abilities: 4: unaware; moves: -stealth rock, +spikes;
+escavalier;    moves: +speed swap;
+uxie;          moves: -stealth rock, -uturn, +whirlwind;
+glalie;        abilities: 4: anger shell;
+centiskorch;   moves: +first impression, +hidden power, +stone edge;
+rotom;         moves: -defog, -electric terrain, -volt switch, +hydro pump, +overheat;
+decidueye;     abilities: 4: sharpness; moves: -defog, -grassy terrain, -uturn;
+spiritomb;     abilities: 4: cursed body; moves: +recover;
+charizard;     abilities: 4: dragons maw; moves: -defog, +aeroblast;
+chesnaught;    abilities: 4: lingering aroma; moves: -grassy terrain;
+weezing;       moves: +body press;
+wo-chien;      moves: -grassy terrain, +hidden power, +pursuit;
+lickilicky;    moves: +slack off;
+scrafty;       moves: +rapid spin;
+seviper;       abilities: 4: ice scales; moves: +pursuit;
+bouffalant;    abilities: 4: guts; moves: +quick attack;
+nihilego;      abilities: 4: solar power; moves: -stealth rock, +hydro steam, +sunny day;
+persian-alola; moves: -uturn, +ceaseless edge;
+probopass;     abilities: 4: levitate; moves: -stealth rock, -volt switch, +spikes;
+donphan;       abilities: 4: rocky payload; moves: -stealth rock, +close combat;
+vespiquen;     abilities: 4: magic guard; moves: -defog, -uturn, +brave bird;
+meganium;      moves: moves: -grassy terrain, +fire blast, +take heart;
+hakamo-o;      abilities: 4: sword of ruin;
+lapras;        abilities: 4: filter; moves: +rapid spin;
