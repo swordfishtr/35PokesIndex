@@ -1,37 +1,37 @@
 Vision C, Version 1
 dhelmise
-liepard; moves: +signal beam, +swords dance;
-weezing; abilities: 4: cloud nine; moves: +rapid spin;
-wigglytuff; abilities: 4: regenerator;
+liepard;        moves: +signal beam, +swords dance;
+weezing;        abilities: 4: cloud nine; moves: +rapid spin;
+wigglytuff;     abilities: 4: regenerator;
 aromatisse
 togedemaru
-silvally; abilities: 2: cloud nine; moves: +stealth rock;
-gogoat; abilities: 2: grassy surge;
+silvally;       abilities: 2: cloud nine; moves: +stealth rock;
+gogoat;         abilities: 2: grassy surge;
 hitmontop
-solrock; abilities: 2: psychic surge; moves: +dragon dance;
+solrock;        abilities: 2: psychic surge; moves: +dragon dance;
 raichu-alola
-lickilicky; abilities: 4: misty surge; moves: +stealth rock;
-dedenne; moves: +growth, +moonblast;
-klinklang; abilities: 4: electric surge; moves: +spikes;
+lickilicky;     abilities: 4: misty surge; moves: +stealth rock;
+dedenne;        moves: +growth, +moonblast;
+klinklang;      abilities: 4: electric surge; moves: +spikes;
 leavanny
 exeggutor
 # Steelix Sheer Force is still legal; it has 5 abilities.
-steelix; abilities: 3: sand force, 4: rocky payload;
-medicham; moves: +jey punch, +seed bomb;
-jynx; abilities: 4: sap sipper;
-wailord; moves: +thunder;
-rotom-frost; abilities: 2: refrigerate;
-magcargo; abilities: 4: drought;
-camerupt; moves: +shore up;
-palossand; abilities: 2: sand stream;
-relicanth; abilities: 4: sand rush; moves: +hone claws;
-lumineon; abilities: 4: drizzle;
-granbull; abilities: 4: slush rush; moves: +drain punch;
-delibird; abilities: 4: snow warning; moves: +beak blast, +roost;
+steelix;        abilities: 3: sand force, 4: rocky payload;
+medicham;       moves: +jey punch, +seed bomb;
+jynx;           abilities: 4: sap sipper;
+wailord;        moves: +thunder;
+rotom-frost;    abilities: 2: refrigerate;
+magcargo;       abilities: 4: drought;
+camerupt;       moves: +shore up;
+palossand;      abilities: 2: sand stream;
+relicanth;      abilities: 4: sand rush; moves: +hone claws;
+lumineon;       abilities: 4: drizzle;
+granbull;       abilities: 4: slush rush; moves: +drain punch;
+delibird;       abilities: 4: snow warning; moves: +beak blast, +roost;
 talonflame
-haunter; abilities: 2: flash fire; moves: +flamethrower;
-guzzlord; abilities: 2: wellbaked body, 3: earth eater, 4: volt absorb; moves: +stealth rock;
-mabosstiff; abilities: 4: strong jaw;
-toxicroak; abilities: 4: lightning rod;
-mothim; moves: +blizzard, +hurricane;
-avalugg; abilities: 4: bulletproof;
+haunter;        abilities: 2: flash fire; moves: +flamethrower;
+guzzlord;       abilities: 2: wellbaked body, 3: earth eater, 4: volt absorb; moves: +stealth rock;
+mabosstiff;     abilities: 4: strong jaw;
+toxicroak;      abilities: 4: lightning rod;
+mothim;         moves: +blizzard, +hurricane;
+avalugg;        abilities: 4: bulletproof;

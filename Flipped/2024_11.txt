@@ -1,4 +1,4 @@
-Flipped Nov 2024
+Nov 2024
 rules; flipped;
 code: /challenge gen9nationaldexag @@@ Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, Forme Clause, -Hidden Power, -Last Respects, -Kings Rock, -Shadow Tag, -Acupressure, -Battle Bond, -Quick Claw, -Razor Fang, Evasion Clause, OHKO Clause, DryPass clause, -All Pokemon, +
 nihilego

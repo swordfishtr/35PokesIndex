@@ -1,4 +1,4 @@
-LC April Fools 2024
+April Fools 2024
 parent: Babies/2024_04.txt
 -wooper-paldea
 -charcadet

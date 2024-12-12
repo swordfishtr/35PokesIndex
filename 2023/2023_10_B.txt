@@ -1,4 +1,4 @@
-Oct 2023 B
+Oct B 2023
 parent: 2023/2023_10.txt
 -mimikyu
 -scovillain
