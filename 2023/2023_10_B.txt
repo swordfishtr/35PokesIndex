@@ -1,5 +1,5 @@
 Oct B 2023
-parent: 2023/2023_10.txt
+parent: 2023/2023_10_D.txt
 -mimikyu
 -scovillain
 -lycanroc
