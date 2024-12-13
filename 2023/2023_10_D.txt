@@ -1,4 +1,0 @@
-Oct 2023 D (TESTING)
-parent: 2023/2023_10_C.txt
--wooper
-+quagsire
