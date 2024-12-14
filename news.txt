@@ -1,0 +1,3 @@
+news item(s) to store and display in popup
+
+implementation tbd
