@@ -39,7 +39,7 @@ ambipom
 camerupt
 hypno
 purugly
-blissey
+politoed
 weavile
 pachirisu
 qwilfish
