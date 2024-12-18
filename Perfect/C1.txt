@@ -17,7 +17,7 @@ Klinklang;      abilities: 4: Electric Surge; moves: +Spikes;
 Leavanny
 Exeggutor
 # Steelix Sheer Force is still legal; it has 5 abilities.
-Steelix;        abilities: 3: Sand Force, 4: Rocky pPyload;
+Steelix;        abilities: 3: Sand Force, 4: Rocky Payload;
 Medicham;       moves: +Jet Punch, +Seed Bomb;
 Jynx;           abilities: 4: Sap Sipper;
 Wailord;        moves: Thunder;
