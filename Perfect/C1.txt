@@ -2,14 +2,14 @@ Vision C, Version 1
 code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Gogoat, +Klinklang, +Solrock, +Lickilicky, +Magcargo, +Lumineon, +Palossand, +Delibird, +Guzzlord, +Mabosstiff, +Liepard, +Hitmontop, +Toxicroak, +Medicham, +Exeggutor, +Leavanny, +Dhelmise, +Haunter, +Raichu-Alola, +Togedemaru, +Rotom-Frost, +Talonflame, +Camerupt, +Wailord, +Relicanth, +Wigglytuff, +Aromatisse, +Granbull, +Dedenne, +Avalugg, +Jynx, +Weezing, +Silvally, +Steelix, +Mothim
 Dhelmise
 Liepard;        moves: +Signal Beam, +Swords Dance;
-Weezing;        abilities: 4: Cloud Nine; moves: +Rapid Spin;
-Wigglytuff;     abilities: 4: Regenerator;
+Weezing;        abilities: 4: Cloud Nine; moves: +Mortal Spin;
+Wigglytuff;     abilities: 4: Regenerator; moves: +Fleur Cannon;
 Aromatisse
 Togedemaru
 Silvally;       abilities: 2: Cloud Nine; moves: +Stealth Rock;
 Gogoat;         abilities: 2: Grassy Surge;
 Hitmontop
-Solrock;        abilities: 2: Psychic Surge; moves: +Dragon Dance;
+Solrock;        abilities: 2: Psychic Surge; moves: +Victory Dance;
 Raichu-Alola
 Lickilicky;     abilities: 4: Misty Surge; moves: +Stealth Rock;
 Dedenne;        moves: +Growth, +Moonblast;
@@ -17,7 +17,7 @@ Klinklang;      abilities: 4: Electric Surge; moves: +Spikes;
 Leavanny
 Exeggutor
 # Steelix Sheer Force is still legal; it has 5 abilities.
-Steelix;        abilities: 3: Sand Force, 4: Rocky Payload;
+Steelix;        abilities: 4: Rocky Payload; moves: +Shore Up;
 Medicham;       moves: +Jet Punch, +Seed Bomb;
 Jynx;           abilities: 4: Sap Sipper;
 Wailord;        moves: Thunder;
@@ -31,7 +31,7 @@ Granbull;       abilities: 4: Slush Rush; moves: +Drain Punch;
 Delibird;       abilities: 4: Snow Warning; moves: +Beak Blast, +Roost;
 Talonflame
 Haunter;        abilities: 2: Flash Fire; moves: +Flamethrower;
-Guzzlord;       abilities: 2: Well-Baked Body, 3: Earth Eater, 4: Volt Absorb; moves: +Stealth Rock;
+Guzzlord;       abilities: 2: Earth Eater; moves: +Stealth Rock;
 Mabosstiff;     abilities: 4: Strong Jaw;
 Toxicroak;      abilities: 4: Lightning Rod;
 Mothim;         moves: +Blizzard, +Hurricane;
