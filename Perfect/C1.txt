@@ -20,7 +20,7 @@ Exeggutor
 Steelix;        abilities: 4: Rocky Payload; moves: +Shore Up;
 Medicham;       moves: +Jet Punch, +Seed Bomb;
 Jynx;           abilities: 4: Sap Sipper;
-Wailord;        moves: Thunder;
+Wailord;        abilities: 4: Unaware; moves: +Thunder;
 Rotom-Frost;    abilities: 2: Refrigerate;
 Magcargo;       abilities: 4: Drought;
 Camerupt;       moves: +Shore Up;
