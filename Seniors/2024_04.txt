@@ -20,7 +20,7 @@ meloetta-pirouette
 blissey
 alakazam-mega
 aggron-mega
-ogerpon-hearthflame-tera
+ogerpon-hearthflame
 pokestar spirit; moves: +crunch, +dual chop, +slack off, +swords dance;
 dragapult
 camerupt-mega
