@@ -1,9 +1,9 @@
 Vision A, Version 3
-Turtonator
+Talonflame
 Rapidash
 Silvally-Fire
 Archeops
-Coalossal
+Magcargo
 Cryogonal
 Crabominable
 Machoke
@@ -20,9 +20,9 @@ Mantine
 Runerigus
 Trapinch
 Dugtrio-Alola
-Silvally-Grass; moves: +Jungle Healing, +Leaf Storm;
-Terapagos; abilities: 1: Shell Armor;
-Murkrow
+Silvally-Grass
+Terapagos; abilities: 1: Scrappy;
+Liepard
 Aurorus
 Dusknoir
 Purugly
