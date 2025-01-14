@@ -3,7 +3,7 @@ code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable M
 
 # Terrain Setters
 Klinklang;      abilities: 4: Hadron Engine; moves: +Spikes;
-Aromatisse;     abilities: 2: Misty Surge; moves: +Spikes;
+Aromatisse;     abilities: 4: Misty Surge; moves: +Spikes;
 Jynx;           abilities: 4: Psychic Surge;
 Gogoat;         abilities: 2: Grassy Surge; moves: +Wood Hammer;
 
