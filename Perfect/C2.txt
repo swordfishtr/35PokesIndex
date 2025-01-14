@@ -18,7 +18,7 @@ Leavanny;       abilities: 4: Sap Sipper;
 Dhelmise;       abilities: 2: Water Absorb;
 Exeggutor;      abilities: 3: Regenerator; moves: +Weather Ball;
 Medicham;       moves: +Jet Punch;
-Raichu-Alola    abilities: 2: Swift Swim;
+Raichu-Alola;    abilities: 2: Swift Swim;
 Togedemaru;     moves: +Spikes;
 Rotom-Frost;    abilities: 2: Solar Power; moves: +Overheat;
 Carbink;        abilities: 3: Ice Body; moves: +Chilly Reception;
