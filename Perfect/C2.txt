@@ -1,4 +1,4 @@
-Vision C, Version 1
+Vision C, Version 2
 code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Gogoat, +Klinklang, +Solrock, +Lickilicky, +Magcargo, +Lumineon, +Palossand, +Delibird, +Guzzlord, +Mabosstiff, +Liepard, +Hitmontop, +Toxicroak, +Medicham, +Exeggutor, +Leavanny, +Dhelmise, +Haunter, +Raichu-Alola, +Togedemaru, +Rotom-Frost, +Talonflame, +Camerupt, +Wailord, +Relicanth, +Wigglytuff, +Aromatisse, +Granbull, +Dedenne, +Avalugg, +Jynx, +Weezing, +Silvally, +Steelix, +Mothim
 
 # Terrain Setters
