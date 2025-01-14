@@ -5,39 +5,39 @@ code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable M
 Klinklang;      abilities: 4: Hadron Engine; moves: +Spikes;
 Aromatisse;     abilities: 4: Misty Surge; moves: +Spikes;
 Jynx;           abilities: 4: Psychic Surge;
-Gogoat;         abilities: 2: Grassy Surge; moves: +Wood Hammer;
+Gogoat;         abilities: 4: Grassy Surge; moves: +Wood Hammer;
 
 # Weather Setters
 Hakamo-o;       abilities: 4: Orichalcum Pulse; moves: +Stealth Rock, +Bitter Blade;
-Emolga;         abilities: 3: Drizzle; moves: +Hurricane, +Surf;
+Emolga;         abilities: 4: Drizzle; moves: +Hurricane, +Surf;
 Glalie;         abilities: 4: Snow Warning; moves: +Aurora Veil, +Parting Shot;
 Magcargo;       abilities: 4: Sand Stream;
 
 # Users - Abusers - Counters
 Leavanny;       abilities: 4: Sap Sipper;
-Dhelmise;       abilities: 2: Water Absorb;
-Exeggutor;      abilities: 3: Regenerator; moves: +Weather Ball;
+Dhelmise;       abilities: 4: Water Absorb;
+Exeggutor;      abilities: 4: Regenerator; moves: +Weather Ball;
 Medicham;       moves: +Jet Punch;
-Raichu-Alola;    abilities: 2: Swift Swim;
+Raichu-Alola;   abilities: 4: Swift Swim;
 Togedemaru;     moves: +Spikes;
-Rotom-Frost;    abilities: 2: Solar Power; moves: +Overheat;
-Carbink;        abilities: 3: Ice Body; moves: +Chilly Reception;
+Rotom-Frost;    abilities: 4: Solar Power; moves: +Overheat;
+Carbink;        abilities: 4: Ice Body; moves: +Chilly Reception;
 Wigglytuff;     abilities: 4: Regenerator; moves: +Fleur Cannon;
 Lickilicky;     abilities: 4: Unaware;
 Stoutland;      abilities: 4: Slush Rush;
 Talonflame
 Camerupt;       abilities: 4: Grass Pelt; moves: +Salt Cure, +Morning Sun;
 Steelix;        abilities: 4: Sand Force; moves: +Shore Up;
-Palossand;      abilities: 2: Rain Dish; moves: +Sandsear Storm;
+Palossand;      abilities: 4: Rain Dish; moves: +Sandsear Storm;
 Relicanth;      abilities: 4: Sand Rush; moves: +Coil;
 Wailord;        abilities: 4: Primordial Sea; moves: +Thunder;
 Swanna;         abilities: 4: Solar Power; moves: +Hydro Steam, +Heat Wave;
 Avalugg;        abilities: 4: Galvanize;
 Hitmontop
 Weezing;        moves: +Rapid Spin;
-Haunter;        abilities: 2: Flash Fire; moves: +Flamethrower;
+Haunter;        abilities: 4: Flash Fire; moves: +Flamethrower;
 Silvally-Poison; moves: +Sludge Bomb, +Nature Power;
 Mabosstiff;     abilities: 4: Strong Jaw;
-Guzzlord;       abilities: 2: Sand Force; moves: +Stealth Rock;
+Guzzlord;       abilities: 4: Sand Force; moves: +Stealth Rock;
 Mothim;         moves: +Thunder, +Hurricane;
 Pinsir;         abilities: 4: Protosynthesis; moves: +Megahorn;
