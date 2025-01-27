@@ -2,7 +2,7 @@ Vision C, Version 2
 code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Gogoat, +Klinklang, +Solrock, +Lickilicky, +Magcargo, +Lumineon, +Palossand, +Delibird, +Guzzlord, +Mabosstiff, +Liepard, +Hitmontop, +Toxicroak, +Medicham, +Exeggutor, +Leavanny, +Dhelmise, +Haunter, +Raichu-Alola, +Togedemaru, +Rotom-Frost, +Talonflame, +Camerupt, +Wailord, +Relicanth, +Wigglytuff, +Aromatisse, +Granbull, +Dedenne, +Avalugg, +Jynx, +Weezing, +Silvally, +Steelix, +Mothim
 
 # Terrain Setters
-Klinklang;      abilities: 4: Hadron Engine; moves: +Spikes;
+Klinklang;      abilities: 4: Hadron Engine; moves: +Superpower, +Spikes;
 Aromatisse;     abilities: 4: Misty Surge; moves: +Spikes;
 Jynx;           abilities: 4: Psychic Surge;
 Gogoat;         abilities: 4: Grassy Surge; moves: +Wood Hammer;
@@ -27,7 +27,7 @@ Lickilicky;     abilities: 4: Unaware;
 Stoutland;      abilities: 4: Slush Rush;
 Talonflame
 Camerupt;       abilities: 4: Grass Pelt; moves: +Salt Cure, +Morning Sun;
-Steelix;        abilities: 4: Sand Force; moves: +Shore Up;
+Steelix;        abilities: 4: Sand Force;
 Palossand;      abilities: 4: Rain Dish; moves: +Sandsear Storm;
 Relicanth;      abilities: 4: Sand Rush; moves: +Coil;
 Wailord;        abilities: 4: Primordial Sea; moves: +Thunder;
