@@ -12,7 +12,7 @@ Arcanine;          moves: +Energy Ball, +Aura Sphere, -Teleport, -Hidden Power;
 Dusknoir;          abilities: 4: Iron Fist; moves: +Drain Punch, -Hidden Power;
 Nidoqueen;         moves: +Calm Mind, -Stealth Rock, -Hidden Power;
 Virizion;          abilities: 4: Quark Drive; moves: +Bulk Up, -Hidden Power;
-Cyzlizar;          moves: +Heart Stamp, +Court Change, -Uturn, -Shed Tail;
+Cyclizar;          moves: +Heart Stamp, +Court Change, -Uturn, -Shed Tail;
 Oranguru;          abilities: 4: Unaware; moves: +Slack Off, -Hidden Power;
 Dudunsparce;       abilities: 4: Levitate; moves: -Stealth Rock, -Hidden Power;
 Grapploct;         abilities: 4: Regenerator; moves: +Spikes;
