@@ -6,7 +6,7 @@ Regice;            abilities: 4: Snow Warning; moves: +Aura Sphere, -Hidden Powe
 Scyther;           abilities: 4: Delta Stream; moves: -uturn, +Wish, -Defog, -Hidden Power;
 Bombirdier;        moves: +Rapid Spin, +Darkest Lariat, -Stealth Rock, -Uturn;
 Shaymin;           abilities: 4: Levitate; moves: +Nasty Plot, -Hidden Power;
-Tenatcruel;        abilities: 4: Poison Touch; moves: -Flip Turn, -Hidden Power;
+Tentacruel;        abilities: 4: Poison Touch; moves: -Flip Turn, -Hidden Power;
 Camerupt;          moves: +Shore Up, +Spikes, -Stealth Rock, -Hidden Power;
 Arcanine;          moves: +Energy Ball, +Aura Sphere, -Teleport, -Hidden Power;
 Dusknoir;          abilities: 4: Iron Fist; moves: +Drain Punch, -Hidden Power;
