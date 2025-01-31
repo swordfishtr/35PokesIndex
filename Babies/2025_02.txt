@@ -1,0 +1,37 @@
+Feb 2025
+/challenge gen9nationaldexlc @@@ Terastal Clause, !Obtainable, -Hidden Power, +Chlorophyll, +Sticky Web, -All Pokemon, -Deep Sea Tooth, +
+Turtwig
+Clamperl
+Minccino
+Binacle
+Goldeen
+Tadbulb
+Ponyta-Galar
+Shinx
+Ferroseed
+Sentret
+Seedot
+Machop
+Tandemaus
+Shroodle
+Lickitung
+Snom
+Fletchling
+Onix
+Bagon
+Darumaka-Galar
+Tepig
+Phanpy
+Pumpkaboo
+Bellsprout
+Taillow
+Spoink
+Varoom
+Magikarp
+Squirtle
+Tynamo
+Lotad
+Diglett
+Joltik
+Wiglett
+Remoraid
