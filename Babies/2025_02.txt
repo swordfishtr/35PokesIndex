@@ -1,5 +1,4 @@
 Feb 2025
-/challenge gen9nationaldexlc @@@ Terastal Clause, !Obtainable, -Hidden Power, +Chlorophyll, +Sticky Web, -All Pokemon, -Deep Sea Tooth, +
 Turtwig
 Clamperl
 Minccino

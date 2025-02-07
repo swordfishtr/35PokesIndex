@@ -1,5 +1,5 @@
 Vision C, Version 2
-code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Gogoat, +Klinklang, +Solrock, +Lickilicky, +Magcargo, +Lumineon, +Palossand, +Delibird, +Guzzlord, +Mabosstiff, +Liepard, +Hitmontop, +Toxicroak, +Medicham, +Exeggutor, +Leavanny, +Dhelmise, +Haunter, +Raichu-Alola, +Togedemaru, +Rotom-Frost, +Talonflame, +Camerupt, +Wailord, +Relicanth, +Wigglytuff, +Aromatisse, +Granbull, +Dedenne, +Avalugg, +Jynx, +Weezing, +Silvally, +Steelix, +Mothim
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Klinklang, +Aromatisse, +Jynx, +Gogoat, +Hakamo-o, +Emolga, +Glalie-Base, +Magcargo, +Leavanny, +Dhelmise, +Exeggutor-Base, +Medicham-Base, +Raichu-Alola, +Togedemaru-Base, +Rotom-Frost, +Carbink, +Wigglytuff, +Lickilicky, +Stoutland, +Talonflame, +Camerupt-Base, +Steelix-Base, +Palossand, +Relicanth, +Wailord, +Swanna, +Avalugg-Base, +Hitmontop, +Weezing-Base, +Haunter, +Silvally-Poison, +Mabosstiff, +Guzzlord, +Mothim, +Pinsir-Base
 
 # Terrain Setters
 Klinklang;      abilities: 4: Hadron Engine; moves: +Superpower, +Spikes;

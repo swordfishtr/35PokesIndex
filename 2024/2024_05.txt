@@ -1,4 +1,5 @@
 May 2024
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Carbink, +Mantine, +Dusknoir, +Cryogonal, +Milotic, +Mr. Mime-Base, +Hitmonchan, +Shiinotic, +Beheeyem, +Drampa, +Oinkologne-F, +Dustox, +Sunflora, +Raichu-Alola, +Meowstic-Base, +Dachsbun, +Calyrex-Base, +Arbok, +Octillery, +Maushold-Base, +Grafaiai, +Torkoal, +Miltank, +Froslass, +Ariados, +Sableye-Base, +Cherrim-Base, +Simisear, +Salazzle-Base, +Zoroark-Base, +Emolga, +Wobbuffet, +Klawf, +Delcatty, +Drakloak
 carbink
 mantine
 dusknoir

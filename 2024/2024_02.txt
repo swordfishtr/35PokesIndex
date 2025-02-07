@@ -1,4 +1,5 @@
 Feb 2024
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Tauros-Paldea-Blaze, +Ceruledge, +Klinklang, +Houndstone, +Gothitelle, +Snorlax, +Sandslash-Base, +Morpeko-Base, +Sawk, +Nidoqueen, +Lickilicky, +Shiftry, +Vanilluxe, +Jynx, +Wormadam-Trash, +Vigoroth, +Mr. Rime, +Skarmory, +Tyrantrum, +Aromatisse, +Primarina, +Golem-Alola, +Maushold-Base, +Pangoro, +Malamar, +Clodsire, +Klawf, +Meganium, +Quagsire, +Toxicroak, +Wugtrio, +Walrein, +Raichu-Base, +Serperior, +Zebstrika
 tauros-paldea-blaze
 ceruledge
 klinklang

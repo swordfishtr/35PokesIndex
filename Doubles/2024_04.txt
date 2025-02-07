@@ -1,3 +1,0 @@
-Apr 2024
-parent: 2024/2024_04.txt
-code: /challenge gen9doublescustomgame @@@ !! Max Level = 100, !! Max Team Size = 6, Picked Team Size = 4, !! Max Move Count = 4, Obtainable Abilities, Obtainable Moves, Obtainable Formes, Obtainable Misc, Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, -Hidden Power, -Kings Rock, -Shadow Tag, -Battle Bond, Forme Clause, Item Clause, Evasion Clause, OHKO Clause, Baton Pass Stat Trap Clause, Force Open Team Sheets, -Nonexistent, -Unobtainable, +Past, -All Pokemon, +

@@ -1,3 +1,0 @@
-Oct 2024
-parent: 2024/2024_10.txt
-code: /challenge gen9nationaldexdoubles @@@ Picked Team Size = 4, Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, -Hidden Power, -Kings Rock, -Shadow Tag, -Battle Bond, Forme Clause, Item Clause = 1, Evasion Clause, OHKO Clause, Baton Pass Stat Trap Clause, Force Open Team Sheets, -Nonexistent, -Unobtainable, +Past, +Coaching, -All Pokemon, +

@@ -1,5 +1,6 @@
 Oct B 2023
 parent: 2023/2023_10.txt
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Liepard, +Dragalge, +Clefable, +Clodsire, +Gigalith, +Cacturne, +Porygon2, +Shuckle, +Emboar, +Doublade, +Phione, +Lumineon, +Toucannon, +Mandibuzz, +Cinccino, +Avalugg-Hisui, +Sceptile-Base, +Toedscruel, +Hitmontop, +Golem-Alola, +Dugtrio-Base, +Mr. Rime, +Ariados, +Pachirisu, +Ambipom, +Volbeat, +Centiskorch, +Shiinotic, +Poliwrath, +Stoutland, +Banette-Base, +Aurorus, +Mawile-Base, +Xatu, +Sableye-Base, +Orthworm, +Rotom-Mow, +Sandslash-Alola, +Toxicroak, +Roserade, +Lopunny-Base, +Luxray, +Solrock, +Cryogonal, +Noctowl
 -mimikyu
 -scovillain
 -lycanroc

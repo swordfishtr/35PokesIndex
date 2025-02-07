@@ -1,6 +1,6 @@
 Nov 2024
 rules; flipped;
-code: /challenge gen9nationaldexag @@@ Z-Move Clause, -Mega, Terastal Clause, Sleep Clause Mod, Forme Clause, -Hidden Power, -Last Respects, -Kings Rock, -Shadow Tag, -Acupressure, -Battle Bond, -Quick Claw, -Razor Fang, Evasion Clause, OHKO Clause, DryPass clause, -All Pokemon, +
+code: /challenge gen9nationaldex35pokes @@@ +Flipped Mod, -All Pokemon, +Nihilego, +Samurott-Hisui, +Milotic, +Rillaboom, +Snorlax, +Entei, +Umbreon, +Iron Thorns, +Hydreigon, +Necrozma-Base, +Musharna, +Roserade, +Virizion, +Krookodile, +Magmortar, +Indeedee-Base, +Glastrier, +Dondozo, +Heracross-Base, +Rapidash-Base, +Terrakion, +Vanilluxe, +Smeargle, +Carbink, +Probopass, +Iron Hands, +Arbok, +Meganium, +Iron Jugulis, +Sharpedo-Base, +Simipour, +Hypno, +Appletun, +Ampharos-Base, +Pidgeot-Base, +Swanna, +Gengar-Base, +Leafeon, +Dugtrio-Base, +Seaking, +Victreebel, +Emboar, +Crawdaunt, +Exeggutor-Alola, +Tropius, +Glaceon, +Vivillon-Base, +Vespiquen, +Pinsir-Base, +Plusle, +Raticate-Alola
 nihilego
 samurott-hisui
 milotic

@@ -1,0 +1,3 @@
+Feb 2025
+parent: 2025/2025_02.txt
+code: /challenge vgc2025RegG @@@ bestof=3, Terastal Clause, !Obtainable, -All Pokemon, +Rapidash-Galar, +Whiscash, +Scrafty, +Uxie, +Arbok, +Zangoose, +Carnivine, +Persian-Alola, +Emolga, +Araquanid-Base, +Pincurchin, +Hitmonchan, +Maractus, +Dewgong, +Spinda, +Breloom, +Parasect, +Sigilyph, +Ambipom, +Zygarde-10%, +Tauros-Base, +Glalie-Base, +Golduck, +Pangoro, +Weezing-Base, +Zweilous, +Pinsir-Base, +Musharna, +Cacturne, +Regigigas, +Arctozolt, +Bewear, +Kecleon, +Alcremie, +Togedemaru-Base

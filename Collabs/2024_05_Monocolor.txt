@@ -1,5 +1,4 @@
 Monocolor May 2024
-code: ...+
 Red; header
 Kingler
 Scizor
