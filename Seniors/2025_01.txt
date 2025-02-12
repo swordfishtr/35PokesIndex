@@ -1,2 +1,6 @@
 Jan 2025
 parent: Seniors/2024_04.txt
+-cramorant-gorging
+-pokestar spirit
++Dialga-Origin
++Hoopa-Unbound
