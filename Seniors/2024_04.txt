@@ -7,7 +7,7 @@ cresselia
 thundurus
 regidrago
 banette-mega
-cramorant-gorging
+dialga-origin
 giratina-origin
 palkia
 arceus-rock
@@ -21,7 +21,7 @@ blissey
 alakazam-mega
 aggron-mega
 ogerpon-hearthflame
-pokestar spirit; moves: +crunch, +dual chop, +slack off, +swords dance;
+hoopa-unbound
 dragapult
 camerupt-mega
 tyranitar-mega
