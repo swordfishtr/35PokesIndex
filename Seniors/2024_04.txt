@@ -20,6 +20,7 @@ meloetta-pirouette
 blissey
 alakazam-mega
 aggron-mega
+# Currently this form has an empty learnset, so we add it all back manually.
 ogerpon-hearthflame-tera; moves: +brickbreak, +bulletseed, +charm, +counter, +doublekick, +encore, +endure, +energyball, +facade, +falseswipe, +fling, +focusenergy, +followme, +gigadrain, +gigaimpact, +grassknot, +grassyglide, +grassyterrain, +growth, +helpinghand, +hornleech, +ivycudgel, +knockoff, +lashout, +leafstorm, +leechseed, +lowkick, +lowsweep, +magicalleaf, +playrough, +powerwhip, +protect, +quickattack, +raindance, +rest, +retaliate, +reversal, +rocktomb, +sandstorm, +scaryface, +seedbomb, +slam, +sleeptalk, +solarbeam, +solarblade, +spikes, +spikyshield, +stompingtantrum, +substitute, +sunnyday, +superpower, +swordsdance, +synthesis, +takedown, +taunt, +terablast, +throatchop, +trailblaze, +uturn, +vinewhip, +woodhammer, +zenheadbutt;
 hoopa-unbound
 dragapult
