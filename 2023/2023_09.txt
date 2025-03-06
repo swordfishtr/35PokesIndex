@@ -1,5 +1,5 @@
 Sep 2023
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Zoroark-Hisui, +Yanmega, +Mothim, +Rapidash-Galar, +Drapion, +Chimecho, +Espeon, +Vaporeon, +Mamoswine, +Vespiquen, +Barbaracle, +Shedinja, +Alakazam-Base, +Glaceon, +Staraptor, +Electrode-Hisui, +Lickilicky, +Whiscash, +Cherrim-Base, +Armaldo, +Slowking-Base, +Kingler, +Dudunsparce, +Watchog, +Flygon, +Granbull, +Decidueye-Base, +Flareon, +Bronzong, +Rampardos, +Fearow, +Relicanth, +Hitmonlee, +Altaria-Base, +Tinkaton
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Zoroark-Hisui, +Yanmega, +Mothim, +Rapidash-Galar, +Drapion, +Chimecho, +Espeon, +Vaporeon, +Mamoswine, +Vespiquen, +Barbaracle, +Shedinja, +Alakazam-Base, +Glaceon, +Staraptor, +Electrode-Hisui, +Lickilicky, +Whiscash, +Cherrim-Base, +Armaldo, +Slowking-Base, +Kingler, +Dudunsparce, +Watchog, +Flygon, +Granbull, +Decidueye-Base, +Flareon, +Bronzong, +Rampardos, +Fearow, +Relicanth, +Hitmonlee, +Altaria-Base, +Tinkaton
 zoroark-hisui
 yanmega
 mothim

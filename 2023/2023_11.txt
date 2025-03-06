@@ -1,5 +1,5 @@
 Nov 2023
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Copperajah, +Dhelmise, +Mudsdale, +Veluza, +Bellossom, +Tropius, +Cramorant-Base, +Jellicent, +Boltund, +Scolipede, +Typhlosion-Base, +Klefki, +Metagross-Base, +Swoobat, +Honchkrow, +Cursola, +Revavroom, +Swampert-Base, +Garbodor, +Electivire, +Slurpuff, +Jynx, +Bombirdier, +Mismagius, +Wyrdeer, +Lanturn, +Carnivine, +Kangaskhan-Base, +Bellibolt, +Kingdra, +Perrserker, +Steelix-Base, +Alcremie, +Heliolisk, +Beartic
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Copperajah, +Dhelmise, +Mudsdale, +Veluza, +Bellossom, +Tropius, +Cramorant-Base, +Jellicent, +Boltund, +Scolipede, +Typhlosion-Base, +Klefki, +Metagross-Base, +Swoobat, +Honchkrow, +Cursola, +Revavroom, +Swampert-Base, +Garbodor, +Electivire, +Slurpuff, +Jynx, +Bombirdier, +Mismagius, +Wyrdeer, +Lanturn, +Carnivine, +Kangaskhan-Base, +Bellibolt, +Kingdra, +Perrserker, +Steelix-Base, +Alcremie, +Heliolisk, +Beartic
 copperajah
 dhelmise
 mudsdale

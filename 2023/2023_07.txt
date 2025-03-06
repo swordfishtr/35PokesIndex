@@ -1,5 +1,5 @@
 Jul 2023
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Leavanny, +Masquerain, +Eiscue-Base, +Torterra, +Dragonair, +Runerigus, +Swalot, +Muk-Alola, +Musharna, +Hippowdon, +Alomomola, +Aggron-Base, +Umbreon, +Galvantula, +Pawmot, +Quagsire, +Slurpuff, +Sigilyph, +Vaporeon, +Blastoise-Base, +Aegislash-Base, +Scizor-Base, +Spiritomb, +Golisopod, +Clawitzer, +Ninetales-Base, +Delphox, +Typhlosion-Base, +Marowak-Base, +Porygon-Z, +Jumpluff, +Absol-Base, +Porygon2, +Rotom-Frost, +Rotom-Mow
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Leavanny, +Masquerain, +Eiscue-Base, +Torterra, +Dragonair, +Runerigus, +Swalot, +Muk-Alola, +Musharna, +Hippowdon, +Alomomola, +Aggron-Base, +Umbreon, +Galvantula, +Pawmot, +Quagsire, +Slurpuff, +Sigilyph, +Vaporeon, +Blastoise-Base, +Aegislash-Base, +Scizor-Base, +Spiritomb, +Golisopod, +Clawitzer, +Ninetales-Base, +Delphox, +Typhlosion-Base, +Marowak-Base, +Porygon-Z, +Jumpluff, +Absol-Base, +Porygon2, +Rotom-Frost, +Rotom-Mow
 leavanny
 masquerain
 eiscue
