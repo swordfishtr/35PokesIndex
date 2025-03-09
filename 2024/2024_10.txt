@@ -1,5 +1,5 @@
 Oct 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Ninjask, +Perrserker, +Klinklang, +Snorlax, +Houndstone, +Amoonguss, +Seviper, +Rhydon, +Vigoroth, +Bellossom, +Sandaconda, +Samurott-Base, +Honchkrow, +Scyther, +Clawitzer, +Bisharp, +Sinistcha-Base, +Guzzlord, +Porygon-Z, +Sylveon, +Sudowoodo, +Vikavolt-Base, +Noivern, +Blastoise-Base, +Dudunsparce, +Dugtrio-Alola, +Gengar-Base, +Emboar, +Munkidori, +Zoroark-Hisui, +Stoutland, +Accelgor, +Stunfisk-Base, +Magmortar, +Doublade
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Ninjask, +Perrserker, +Klinklang, +Snorlax, +Houndstone, +Amoonguss, +Seviper, +Rhydon, +Vigoroth, +Bellossom, +Sandaconda, +Samurott-Base, +Honchkrow, +Scyther, +Clawitzer, +Bisharp, +Sinistcha-Base, +Guzzlord, +Porygon-Z, +Sylveon, +Sudowoodo, +Vikavolt-Base, +Noivern, +Blastoise-Base, +Dudunsparce, +Dugtrio-Alola, +Gengar-Base, +Emboar, +Munkidori, +Zoroark-Hisui, +Stoutland, +Accelgor, +Stunfisk-Base, +Magmortar, +Doublade
 ninjask
 perrserker
 klinklang

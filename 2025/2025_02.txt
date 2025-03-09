@@ -1,5 +1,5 @@
 Feb 2025
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Rapidash-Galar, +Whiscash, +Scrafty, +Uxie, +Arbok, +Zangoose, +Carnivine, +Persian-Alola, +Emolga, +Araquanid-Base, +Pincurchin, +Hitmonchan, +Maractus, +Dewgong, +Spinda, +Breloom, +Parasect, +Sigilyph, +Ambipom, +Zygarde-10%, +Tauros-Base, +Glalie-Base, +Golduck, +Pangoro, +Weezing-Base, +Zweilous, +Pinsir-Base, +Musharna, +Cacturne, +Regigigas, +Arctozolt, +Bewear, +Kecleon, +Alcremie, +Togedemaru-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Rapidash-Galar, +Whiscash, +Scrafty, +Uxie, +Arbok, +Zangoose, +Carnivine, +Persian-Alola, +Emolga, +Araquanid-Base, +Pincurchin, +Hitmonchan, +Maractus, +Dewgong, +Spinda, +Breloom, +Parasect, +Sigilyph, +Ambipom, +Zygarde-10%, +Tauros-Base, +Glalie-Base, +Golduck, +Pangoro, +Weezing-Base, +Zweilous, +Pinsir-Base, +Musharna, +Cacturne, +Regigigas, +Arctozolt, +Bewear, +Kecleon, +Alcremie, +Togedemaru-Base
 Rapidash-Galar
 Whiscash
 Scrafty

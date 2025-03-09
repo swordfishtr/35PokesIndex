@@ -1,5 +1,5 @@
 Sep 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Starmie, +Muk-Alola, +Krookodile, +Slowking-Galar, +Gabite, +Florges, +Bellibolt, +Rotom-Fan, +Beartic, +Hatterene, +Fearow, +Simisage, +Pyroar, +Politoed, +Mudsdale, +Manectric-Base, +Rhydon, +Simisear, +Basculin-White-Striped, +Swalot, +Wyrdeer, +Klawf, +Flareon, +Wugtrio, +Glimmora, +Clodsire, +Armaldo, +Togedemaru-Base, +Toxicroak, +Arctibax, +Komala, +Spidops, +Sandslash-Alola, +Dustox, +Accelgor
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Starmie, +Muk-Alola, +Krookodile, +Slowking-Galar, +Gabite, +Florges, +Bellibolt, +Rotom-Fan, +Beartic, +Hatterene, +Fearow, +Simisage, +Pyroar, +Politoed, +Mudsdale, +Manectric-Base, +Rhydon, +Simisear, +Basculin-White-Striped, +Swalot, +Wyrdeer, +Klawf, +Flareon, +Wugtrio, +Glimmora, +Clodsire, +Armaldo, +Togedemaru-Base, +Toxicroak, +Arctibax, +Komala, +Spidops, +Sandslash-Alola, +Dustox, +Accelgor
 starmie
 muk-alola
 krookodile

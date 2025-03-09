@@ -1,5 +1,5 @@
 Mar 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Oricorio-Base, +Wigglytuff, +Phione, +Politoed, +Ninjask, +Samurott-Base, +Galvantula, +Mesprit, +Scrafty, +Rotom-Fan, +Greedent, +Seaking, +Swampert-Base, +Weezing-Galar, +Shelgon, +Leafeon, +Cacturne, +Turtonator, +Magmortar, +Lilligant-Base, +Sirfetch’d, +Oricorio-Sensu, +Persian-Alola, +Farigiraf, +Pinsir-Base, +Primeape, +Tatsugiri, +Dugtrio-Alola, +Flygon, +Regice, +Ditto, +Grafaiai, +Pidgeot-Base, +Palossand, +Ribombee-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Oricorio-Base, +Wigglytuff, +Phione, +Politoed, +Ninjask, +Samurott-Base, +Galvantula, +Mesprit, +Scrafty, +Rotom-Fan, +Greedent, +Seaking, +Swampert-Base, +Weezing-Galar, +Shelgon, +Leafeon, +Cacturne, +Turtonator, +Magmortar, +Lilligant-Base, +Sirfetch’d, +Oricorio-Sensu, +Persian-Alola, +Farigiraf, +Pinsir-Base, +Primeape, +Tatsugiri, +Dugtrio-Alola, +Flygon, +Regice, +Ditto, +Grafaiai, +Pidgeot-Base, +Palossand, +Ribombee-Base
 oricorio
 wigglytuff
 phione

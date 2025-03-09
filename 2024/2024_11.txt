@@ -1,5 +1,5 @@
 Nov 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Wishiwashi-Base, +Ampharos-Base, +Tsareena, +Glaceon, +Centiskorch, +Frosmoth, +Exeggutor-Base, +Shelgon, +Granbull, +Guzzlord, +Reuniclus, +Spiritomb, +Unown, +Shedinja, +Lurantis-Base, +Gabite, +Gourgeist-Base, +Ledian, +Golduck, +Qwilfish-Base, +Pinsir-Base, +Gumshoos-Base, +Wigglytuff, +Arbok, +Dusknoir, +Araquanid-Base, +Kecleon, +Exeggutor-Alola, +Trapinch, +Appletun, +Turtonator, +Drampa, +Gorebyss, +Gourgeist-Super, +Galvantula
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Wishiwashi-Base, +Ampharos-Base, +Tsareena, +Glaceon, +Centiskorch, +Frosmoth, +Exeggutor-Base, +Shelgon, +Granbull, +Guzzlord, +Reuniclus, +Spiritomb, +Unown, +Shedinja, +Lurantis-Base, +Gabite, +Gourgeist-Base, +Ledian, +Golduck, +Qwilfish-Base, +Pinsir-Base, +Gumshoos-Base, +Wigglytuff, +Arbok, +Dusknoir, +Araquanid-Base, +Kecleon, +Exeggutor-Alola, +Trapinch, +Appletun, +Turtonator, +Drampa, +Gorebyss, +Gourgeist-Super, +Galvantula
 wishiwashi
 ampharos
 tsareena

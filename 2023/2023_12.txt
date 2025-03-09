@@ -1,5 +1,5 @@
 Dec 2023
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Mabosstiff, +Eelektross, +Camerupt-Base, +Grapploct, +Drifblim, +Ampharos-Base, +Lurantis-Base, +Gyarados-Base, +Hypno, +Druddigon, +Durant, +Chesnaught, +Gastrodon, +Eldegoss, +Pelipper, +Dodrio, +Wailord, +Emolga, +Dachsbun, +Drampa, +Trevenant, +Passimian, +Beautifly, +Tyranitar-Base, +Regirock, +Stunfisk-Galar, +Morpeko-Base, +Jumpluff, +Heatmor, +Froslass, +Audino-Base, +Cetitan, +Pincurchin, +Cradily, +Ninetales-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mabosstiff, +Eelektross, +Camerupt-Base, +Grapploct, +Drifblim, +Ampharos-Base, +Lurantis-Base, +Gyarados-Base, +Hypno, +Druddigon, +Durant, +Chesnaught, +Gastrodon, +Eldegoss, +Pelipper, +Dodrio, +Wailord, +Emolga, +Dachsbun, +Drampa, +Trevenant, +Passimian, +Beautifly, +Tyranitar-Base, +Regirock, +Stunfisk-Galar, +Morpeko-Base, +Jumpluff, +Heatmor, +Froslass, +Audino-Base, +Cetitan, +Pincurchin, +Cradily, +Ninetales-Base
 mabosstiff
 eelektross
 camerupt

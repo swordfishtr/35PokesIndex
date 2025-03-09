@@ -1,5 +1,5 @@
 Aug 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Mandibuzz, +Braviary-Base, +Dusclops, +Sawk, +Corsola-Base, +Maushold-Base, +Vivillon-Base, +Runerigus, +Chesnaught, +Rotom-Heat, +Dhelmise, +Illumise, +Seviper, +Boltund, +Braviary-Hisui, +Mamoswine, +Charizard-Base, +Smeargle, +Donphan, +Musharna, +Muk-Alola, +Frosmoth, +Sableye-Base, +Blissey, +Heracross-Base, +Eelektross, +Trapinch, +Fezandipiti, +Golem-Alola, +Lanturn, +Quagsire, +Squawkabilly-Yellow, +Cradily, +Scizor-Base, +Vanilluxe
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mandibuzz, +Braviary-Base, +Dusclops, +Sawk, +Corsola-Base, +Maushold-Base, +Vivillon-Base, +Runerigus, +Chesnaught, +Rotom-Heat, +Dhelmise, +Illumise, +Seviper, +Boltund, +Braviary-Hisui, +Mamoswine, +Charizard-Base, +Smeargle, +Donphan, +Musharna, +Muk-Alola, +Frosmoth, +Sableye-Base, +Blissey, +Heracross-Base, +Eelektross, +Trapinch, +Fezandipiti, +Golem-Alola, +Lanturn, +Quagsire, +Squawkabilly-Yellow, +Cradily, +Scizor-Base, +Vanilluxe
 mandibuzz
 braviary
 dusclops

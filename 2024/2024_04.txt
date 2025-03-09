@@ -1,5 +1,5 @@
 Apr 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Lokix, +Sandslash-Alola, +Altaria-Base, +Gengar-Base, +Drampa, +Dugtrio-Alola, +Stoutland, +Golisopod, +Abomasnow-Base, +Frosmoth, +Fezandipiti, +Golduck, +Vespiquen, +Decidueye-Base, +Charizard-Base, +Hippowdon, +Rabsca, +Coalossal, +Houndstone, +Leafeon, +Glaceon, +Slowking-Base, +Manectric-Base, +Alomomola, +Accelgor, +Mismagius, +Dachsbun, +Tentacruel, +Sandslash-Base, +Tinkaton, +Roserade, +Sableye-Base, +Palossand, +Cobalion, +Garbodor
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Lokix, +Sandslash-Alola, +Altaria-Base, +Gengar-Base, +Drampa, +Dugtrio-Alola, +Stoutland, +Golisopod, +Abomasnow-Base, +Frosmoth, +Fezandipiti, +Golduck, +Vespiquen, +Decidueye-Base, +Charizard-Base, +Hippowdon, +Rabsca, +Coalossal, +Houndstone, +Leafeon, +Glaceon, +Slowking-Base, +Manectric-Base, +Alomomola, +Accelgor, +Mismagius, +Dachsbun, +Tentacruel, +Sandslash-Base, +Tinkaton, +Roserade, +Sableye-Base, +Palossand, +Cobalion, +Garbodor
 lokix
 sandslash-alola
 altaria

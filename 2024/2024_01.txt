@@ -1,5 +1,5 @@
 Jan 2024
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Hatterene, +Drakloak, +Luvdisc, +Tangrowth, +Snorlax, +Starmie, +Ursaring, +Appletun, +Stoutland, +Musharna, +Chatot, +Masquerain, +Gorebyss, +Kecleon, +Avalugg-Hisui, +Rhyperior, +Beedrill-Base, +Meowstic-F, +Probopass, +Dewgong, +Braviary-Base, +Houndoom-Base, +Gothitelle, +Crobat, +Tentacruel, +Eldegoss, +Seaking, +Lapras, +Ferrothorn, +Dubwool, +Araquanid-Base, +Yanmega, +Dudunsparce, +Slowking-Base, +Lucario-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Hatterene, +Drakloak, +Luvdisc, +Tangrowth, +Snorlax, +Starmie, +Ursaring, +Appletun, +Stoutland, +Musharna, +Chatot, +Masquerain, +Gorebyss, +Kecleon, +Avalugg-Hisui, +Rhyperior, +Beedrill-Base, +Meowstic-F, +Probopass, +Dewgong, +Braviary-Base, +Houndoom-Base, +Gothitelle, +Crobat, +Tentacruel, +Eldegoss, +Seaking, +Lapras, +Ferrothorn, +Dubwool, +Araquanid-Base, +Yanmega, +Dudunsparce, +Slowking-Base, +Lucario-Base
 hatterene
 drakloak
 luvdisc

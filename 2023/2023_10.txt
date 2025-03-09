@@ -1,5 +1,5 @@
 Oct 2023
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, +Liepard, +Dragalge, +Clefable, +Clodsire, +Gigalith, +Cacturne, +Porygon2, +Mimikyu-Base, +Scovillain, +Lycanroc-Base, +Jolteon, +Bisharp, +Togekiss, +Starmie, +Shuckle, +Emboar, +Doublade, +Phione, +Lumineon, +Toucannon, +Mandibuzz, +Rotom-Base, +Falinks, +Magnezone, +Dondozo, +Brambleghast, +Goodra-Base, +Articuno-Base, +Cinccino, +Avalugg-Hisui, +Sceptile-Base, +Toedscruel, +Hitmontop, +Golem-Alola, +Dugtrio-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Liepard, +Dragalge, +Clefable, +Clodsire, +Gigalith, +Cacturne, +Porygon2, +Mimikyu-Base, +Scovillain, +Lycanroc-Base, +Jolteon, +Bisharp, +Togekiss, +Starmie, +Shuckle, +Emboar, +Doublade, +Phione, +Lumineon, +Toucannon, +Mandibuzz, +Rotom-Base, +Falinks, +Magnezone, +Dondozo, +Brambleghast, +Goodra-Base, +Articuno-Base, +Cinccino, +Avalugg-Hisui, +Sceptile-Base, +Toedscruel, +Hitmontop, +Golem-Alola, +Dugtrio-Base
 liepard
 dragalge
 clefable
