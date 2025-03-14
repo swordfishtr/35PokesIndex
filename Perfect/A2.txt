@@ -1,5 +1,5 @@
 Vision A, Version 2
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Cacturne, +Seviper, +Komala, +Leafeon, +Copperajah, +Rotom-Fan, +Armaldo, +Mr. Rime, +Cryogonal, +Medicham-Base, +Silvally-Psychic, +Silvally-Fighting, +Toxicroak, +Mantine, +Purugly, +Archeops, +Toucannon, +Aurorus, +Mawile-Base, +Togedemaru-Base, +Frogadier, +Vikavolt-Base, +Pinsir-Base, +Wugtrio, +Dragonair, +Shiinotic, +Dusknoir, +Skuntank, +Silvally-Dark, +Runerigus, +Misdreavus, +Turtonator, +Rapidash-Base, +Camerupt-Base, +Sandslash-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Cacturne, +Seviper, +Komala, +Leafeon, +Copperajah, +Rotom-Fan, +Armaldo, +Mr. Rime, +Cryogonal, +Medicham-Base, +Silvally-Psychic, +Silvally-Fighting, +Toxicroak, +Mantine, +Purugly, +Archeops, +Toucannon, +Aurorus, +Mawile-Base, +Togedemaru-Base, +Frogadier, +Vikavolt-Base, +Pinsir-Base, +Wugtrio, +Dragonair, +Shiinotic, +Dusknoir, +Skuntank, +Silvally-Dark, +Runerigus, +Misdreavus, +Turtonator, +Rapidash-Base, +Camerupt-Base, +Sandslash-Base
 cacturne
 seviper
 komala

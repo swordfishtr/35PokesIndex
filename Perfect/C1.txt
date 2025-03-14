@@ -1,5 +1,5 @@
 Vision C, Version 1
-code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Dhelmise, +Liepard, +Weezing-Base, +Wigglytuff, +Aromatisse, +Togedemaru-Base, +Silvally-Base, +Gogoat, +Hitmontop, +Solrock, +Raichu-Alola, +Lickilicky, +Dedenne, +Klinklang, +Leavanny, +Exeggutor-Base, +Steelix-Base, +Medicham-Base, +Jynx, +Wailord, +Rotom-Frost, +Magcargo, +Camerupt-Base, +Palossand, +Relicanth, +Lumineon, +Granbull, +Delibird, +Talonflame, +Haunter, +Guzzlord, +Mabosstiff, +Toxicroak, +Mothim, +Avalugg-Base
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, !Obtainable Moves, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Dhelmise, +Liepard, +Weezing-Base, +Wigglytuff, +Aromatisse, +Togedemaru-Base, +Silvally-Base, +Gogoat, +Hitmontop, +Solrock, +Raichu-Alola, +Lickilicky, +Dedenne, +Klinklang, +Leavanny, +Exeggutor-Base, +Steelix-Base, +Medicham-Base, +Jynx, +Wailord, +Rotom-Frost, +Magcargo, +Camerupt-Base, +Palossand, +Relicanth, +Lumineon, +Granbull, +Delibird, +Talonflame, +Haunter, +Guzzlord, +Mabosstiff, +Toxicroak, +Mothim, +Avalugg-Base
 Dhelmise
 Liepard;        moves: +Signal Beam, +Swords Dance;
 Weezing;        abilities: 4: Cloud Nine; moves: +Mortal Spin;

@@ -1,0 +1,37 @@
+Feb 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Exeggutor-Base, +Celebi, +Serperior, +Dhelmise, +Rapidash, +Magmar, +Volcarona, +Salazzle, +Gyarados, +Vaporeon, +Lumineon, +Drednaw, +Cramorant, +Pikachu, +Raichu, +Electabuzz, +Galvantula, +Dedenne, +Mew, +Sigilyph, +Beheeyem, +Florges, +Slurpuff, +Golem-Base, +Aerodactyl, +Primeape, +Stonjourner, +Weezing, +Liepard, +Scolipede, +Druddigon, +Pidgeot, +Tauros, +Chatot, +Shiinotic
+Exeggutor-Base
+Celebi
+Serperior
+Dhelmise
+Rapidash
+Magmar
+Volcarona
+Salazzle
+Gyarados
+Vaporeon
+Lumineon
+Drednaw
+Cramorant
+Pikachu
+Raichu
+Electabuzz
+Galvantula
+Dedenne
+Mew
+Sigilyph
+Beheeyem
+Florges
+Slurpuff
+Golem-Base
+Aerodactyl
+Primeape
+Stonjourner
+Weezing
+Liepard
+Scolipede
+Druddigon
+Pidgeot
+Tauros
+Chatot
+Shiinotic

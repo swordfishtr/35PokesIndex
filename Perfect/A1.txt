@@ -1,5 +1,5 @@
 Vision A, Version 1
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Kangaskhan-Base, +Wigglytuff, +Komala, +Haunter, +Golurk, +Cofagrigus, +Glalie-Base, +Mr. Rime, +Kadabra, +Medicham-Base, +Hitmonchan, +Poliwrath, +Simipour, +Mantine, +Silvally-Flying, +Archeops, +Klawf, +Aurorus, +Mawile-Base, +Togedemaru-Base, +Electrode-Base, +Vikavolt-Base, +Pinsir-Base, +Wormadam-Trash, +Simisage, +Shiinotic, +Victreebel, +Skuntank, +Silvally-Dark, +Guzzlord, +Silvally-Dragon, +Turtonator, +Simisear, +Camerupt-Base, +Sandslash-Base
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Kangaskhan-Base, +Wigglytuff, +Komala, +Haunter, +Golurk, +Cofagrigus, +Glalie-Base, +Mr. Rime, +Kadabra, +Medicham-Base, +Hitmonchan, +Poliwrath, +Simipour, +Mantine, +Silvally-Flying, +Archeops, +Klawf, +Aurorus, +Mawile-Base, +Togedemaru-Base, +Electrode-Base, +Vikavolt-Base, +Pinsir-Base, +Wormadam-Trash, +Simisage, +Shiinotic, +Victreebel, +Skuntank, +Silvally-Dark, +Guzzlord, +Silvally-Dragon, +Turtonator, +Simisear, +Camerupt-Base, +Sandslash-Base
 kangaskhan
 wigglytuff
 komala

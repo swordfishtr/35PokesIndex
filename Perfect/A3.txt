@@ -1,5 +1,5 @@
 Vision A, Version 3
-code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, -All Pokemon, +Talonflame, +Rapidash-Base, +Silvally-Fire, +Archeops, +Coalossal, +Cryogonal, +Crabominable, +Machoke, +Toxicroak, +Weezing-Base, +Vikavolt-Base, +Rotom-Fan, +Togedemaru-Base, +Copperajah, +Illumise, +Golisopod, +Silvally-Water, +Mantine, +Runerigus, +Trapinch, +Dugtrio-Alola, +Silvally-Grass, +Terapagos-Base, +Liepard, +Aurorus, +Dusknoir, +Purugly, +Farigiraf, +Flapple, +Leafeon, +Thievul, +Skuntank, +Dachsbun, +Rapidash-Galar, +Hattrem
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Abilities, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Talonflame, +Rapidash-Base, +Silvally-Fire, +Archeops, +Coalossal, +Cryogonal, +Crabominable, +Machoke, +Toxicroak, +Weezing-Base, +Vikavolt-Base, +Rotom-Fan, +Togedemaru-Base, +Copperajah, +Illumise, +Golisopod, +Silvally-Water, +Mantine, +Runerigus, +Trapinch, +Dugtrio-Alola, +Silvally-Grass, +Terapagos-Base, +Liepard, +Aurorus, +Dusknoir, +Purugly, +Farigiraf, +Flapple, +Leafeon, +Thievul, +Skuntank, +Dachsbun, +Rapidash-Galar, +Hattrem
 Talonflame
 Rapidash
 Silvally-Fire
