@@ -1,3 +1,3 @@
 Dec 2024
 parent: 2024/2024_12.txt
-# NDDOU challenge code?
+code: /challenge vgc2025reggbo3 @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Golem-Alola, +Zoroark-Base, +Pyukumuku, +Guzzlord, +Wugtrio, +Garbodor, +Aurorus, +Morpeko-Base, +Walrein, +Roserade, +Ribombee-Base, +Carracosta, +Perrserker, +Cryogonal, +Appletun, +Primarina, +Pachirisu, +Banette-Base, +Celebi, +Avalugg-Base, +Wo-Chien, +Pupitar, +Cetitan, +Milotic, +Scovillain, +Dipplin, +Chandelure, +Toxicroak, +Magmortar, +Yanmega, +Cacturne, +Luvdisc, +Mawile-Base, +Jumpluff, +Rotom-Frost
