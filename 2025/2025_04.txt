@@ -1,21 +1,21 @@
-May 2025
+Apr 2025
 Kingdra
 Crustle
-Corsola-Base
+Corsola
 Dipplin
 Dusknoir
 Drampa
 Pincurchin
 Type: Null
 Camerupt
-Rotom-Base
-Raticate-Base
+Rotom
+Raticate
 Bombirdier
 Cradily
 Beedrill
 Gastrodon
 Donphan
-Chimeco
+Chimecho
 Coalossal
 Dustox
 Dedenne
@@ -25,12 +25,12 @@ Cyclizar
 Grumpig
 Tentacruel
 Miltank
-Arcanine-Base
+Arcanine
 Shelgon
 Spinda
 Wormadam-Sandy
 Exploud
-Marowak-Base
+Marowak
 Hypno
 Furret
 Bastiodon
