@@ -1,4 +1,5 @@
 Apr 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Kingdra, +Crustle, +Corsola-Base, +Dipplin, +Dusknoir, +Drampa, +Pincurchin, +Type:Null, +Camerupt-Base, +Rotom-Base, +Raticate-Base, +Bombirdier, +Cradily, +Beedrill-Base, +Gastrodon, +Donphan, +Chimecho, +Coalossal, +Dustox, +Dedenne, +Kecleon, +Flareon, +Cyclizar, +Grumpig, +Tentacruel, +Miltank, +Arcanine-Base, +Shelgon, +Spinda, +Wormadam-Sandy, +Exploud, +Marowak-Base, +Hypno, +Furret, +Bastiodon
 Kingdra
 Crustle
 Corsola

@@ -1,0 +1,3 @@
+Apr 2025
+parent: 2025/2025_03.txt
+code: /challenge vgc2025reggbo3 @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Kingdra, +Crustle, +Corsola-Base, +Dipplin, +Dusknoir, +Drampa, +Pincurchin, +Type:Null, +Camerupt-Base, +Rotom-Base, +Raticate-Base, +Bombirdier, +Cradily, +Beedrill-Base, +Gastrodon, +Donphan, +Chimecho, +Coalossal, +Dustox, +Dedenne, +Kecleon, +Flareon, +Cyclizar, +Grumpig, +Tentacruel, +Miltank, +Arcanine-Base, +Shelgon, +Spinda, +Wormadam-Sandy, +Exploud, +Marowak-Base, +Hypno, +Furret, +Bastiodon
