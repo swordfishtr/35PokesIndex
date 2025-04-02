@@ -1,4 +1,5 @@
 Benjamin Button
+rules; scalemons;
 code: /challenge gen9nationaldex35pokes @@@ Scalemons Mod, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Articuno-Base, +Entei, +Latias-Base, +Heatran, +Thundurus-Base, +Tapu Bulu, +Regieleki, +Venusaur-Base, +Arctozolt, +Ting-Lu, +Ogerpon-Wellspring, +Dialga-Base, +Mamoswine, +Celebi, +Great Tusk, +Meloetta-Base, +Lugia, +Deino, +Lechonk, +Arrokuda, +Psyduck, +Ferroseed, +Beldum, +Exeggcute, +Charmander, +Archen, +Fomantis, +Roggenrola, +Tentacool, +Munna, +Hatenna, +Drilbur, +Bagon, +Minccino, +Whimsicott
 Articuno
 Entei
