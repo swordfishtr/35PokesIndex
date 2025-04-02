@@ -3,7 +3,7 @@ Custom Rules (pls lmk if you know the full list); header;
 - Emax takes 2 team slots; header;
 - +snom in nickname gives adds Snom learnset to pokemon (here's Snom for convenience); header;
 Snom
-- Chi-Yu and Chien-Pao come as a pair - if you bring one, you have to bring the other too
+- Chi-Yu and Chien-Pao come as a pair - if you bring one, you have to bring the other too; header;
 Phione
 Audino
 Regieleki
