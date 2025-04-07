@@ -26,7 +26,7 @@ Wigglytuff;     abilities: 4: Regenerator; moves: +Fleur Cannon;
 Lickilicky;     abilities: 4: Unaware;
 Stoutland;      abilities: 4: Slush Rush;
 Talonflame
-Camerupt;       abilities: 4: Grass Pelt; moves: +Salt Cure, +Morning Sun;
+Camerupt;       abilities: 4: Grass Pelt; moves: +Salt Cure, +Shore Up;
 Steelix;        abilities: 4: Sand Force;
 Palossand;      abilities: 4: Rain Dish; moves: +Sandsear Storm;
 Relicanth;      abilities: 4: Sand Rush; moves: +Coil;
