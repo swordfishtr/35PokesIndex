@@ -31,7 +31,7 @@ Steelix;        abilities: 4: Sand Force;
 Palossand;      abilities: 4: Rain Dish; moves: +Sandsear Storm;
 Relicanth;      abilities: 4: Sand Rush; moves: +Coil;
 Wailord;        abilities: 4: Primordial Sea; moves: +Thunder;
-Swanna;         abilities: 4: Solar Power; moves: +Hydro Steam, +Heat Wave;
+Swanna;         abilities: 4: Mold Breaker; moves: +Hydro Steam;
 Avalugg;        abilities: 4: Galvanize;
 Hitmontop
 Weezing;        moves: +Rapid Spin;
