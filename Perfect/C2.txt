@@ -18,7 +18,7 @@ Leavanny;       abilities: 4: Sap Sipper;
 Dhelmise;       abilities: 4: Water Absorb;
 Exeggutor;      abilities: 4: Regenerator; moves: +Weather Ball;
 Medicham;       moves: +Jet Punch;
-Raichu-Alola;   abilities: 4: Swift Swim;
+Raichu-Alola;   abilities: 4: Teravolt;
 Togedemaru;     moves: +Spikes;
 Rotom-Frost;    abilities: 4: Solar Power; moves: +Overheat;
 Carbink;        abilities: 4: Ice Body; moves: +Chilly Reception;
@@ -31,7 +31,7 @@ Steelix;        abilities: 4: Sand Force;
 Palossand;      abilities: 4: Rain Dish; moves: +Sandsear Storm;
 Relicanth;      abilities: 4: Sand Rush; moves: +Coil;
 Wailord;        abilities: 4: Primordial Sea; moves: +Thunder;
-Swanna;         abilities: 4: Mold Breaker; moves: +Hydro Steam;
+Swanna;         abilities: 4: Swift Swim; moves: +Hydro Steam;
 Avalugg;        abilities: 4: Galvanize;
 Hitmontop
 Weezing;        moves: +Rapid Spin;
