@@ -7,7 +7,7 @@ Quilladin
 Porygon
 Hattrem
 Tinkatuff
-Floette-Base
+Floette
 Frillish
 Gastly
 Staryu
