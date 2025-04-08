@@ -1,5 +1,4 @@
 Vision D, Version 1
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Staravia, +Charjabug, +Ponyta, +Krokorok, +Quiladin, +Porygon, +Hattrem, +Tinkatuff, +Floette, +Frillish, +Gastly, +Staryu, +Luxio, +Cubchoo, +Amaura, +Gloom, +Stufful, +Mankey, +Carkol, +Yanma, +Grimer-Alola, +Linoone-Galar, +Cufant, +Vibrava, +Voltorb-Hisui, +Gothorita, +Lampent, +Slowpoke-Galar, +Palpitoad, +Sandshrew-Alola, +Anorith, +Sliggoo, +Corvisquire, +Snubbull, +Aipom
 Staravia
 Charjabug
 Ponyta
