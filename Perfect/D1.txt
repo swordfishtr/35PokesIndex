@@ -20,7 +20,7 @@ Mankey
 Carkol
 Yanma
 Grimer-Alola
-Linoone-Galar
+Meowth-Alola
 Cufant
 Vibrava
 Voltorb-Hisui
@@ -30,7 +30,7 @@ Slowpoke-Galar
 Palpitoad
 Sandshrew-Alola 
 Anorith
-Sliggoo
+Goomy
 Corvisquire
 Snubbull
 Aipom
