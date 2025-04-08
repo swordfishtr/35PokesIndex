@@ -1,4 +1,5 @@
 May 2024
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Formes, !Evasion Abilities Clause, !DryPass Clause, Baton Pass Clause, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Lugia, +Sharpedo-Mega, +Thundurus-Base, +Pokestar Black Belt, +Moltres-Base, +Corviknight, +Regidrago, +Deoxys-Defense, +Dragapult, +Latias-Base, +Palkia-Base, +Arceus-Rock, +Darmanitan-Galar, +Tapu Lele, +Deoxys-Base, +Spectrier, +Ferrothorn, +Camerupt-Mega, +Regice, +Basculin-White-Striped, +Pokestar F-00, +Pelipper, +Iron Jugulis, +Naganadel, +Keldeo-Base, +Cobalion, +Groudon-Base, +Solgaleo, +Okidogi, +Scovillain, +Pokestar UFO-Base, +Landorus-Base, +Mew, +Garganacl, +Great Tusk
 lugia
 sharpedo-mega
 thundurus

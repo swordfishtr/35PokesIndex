@@ -1,4 +1,5 @@
 Apr 2025
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Formes, !Evasion Abilities Clause, !DryPass Clause, Baton Pass Clause, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Articuno-Base, +Entei, +Latias-Base, +Heatran, +Thundurus-Base, +Tapu Bulu, +Regieleki, +Venusaur-Base, +Arctozolt, +Ting-Lu, +Ogerpon-Wellspring, +Dialga-Base, +Mamoswine, +Celebi, +Great Tusk, +Meloetta-Base, +Lugia, +Sneasler, +Absol-Mega, +Garchomp-Mega, +Sharpedo-Mega, +Giratina-Base, +Iron Jugulis, +Quagsire, +Politoed, +Arceus-Ice, +Dracovish, +Baxcalibur, +Charizard-Mega-Y, +Tyranitar-Base, +Hatterene, +Stakataka, +Excadrill, +Zygarde-Base, +Ninetales-Alola
 articuno
 entei
 latias

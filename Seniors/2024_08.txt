@@ -1,4 +1,5 @@
 Aug 2024
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Formes, !Evasion Abilities Clause, !DryPass Clause, Baton Pass Clause, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Arceus-Electric, +Heatran, +Garchomp-Base, +Iron Treads, +MissingNo., +Sandy Shocks, +Slither Wing, +Hatterene, +Duraludon, +Landorus-Base, +Chi-Yu, +Avalugg-Base, +Archaludon, +Tapu Lele, +Venusaur-Base, +Houndoom-Base, +Pinsir-Base, +Rayquaza-Base, +Shedinja, +Ogerpon-Hearthflame, +Moltres-Base, +Pelipper, +Ogerpon-Base, +Beedrill-Base, +Iron Moth, +Rillaboom, +Banette-Base, +Tapu Fini, +Excadrill, +Weavile, +Politoed, +Tapu Bulu, +Iron Boulder, +Torkoal, +Skarmory
 arceuselectric
 heatran
 garchomp
