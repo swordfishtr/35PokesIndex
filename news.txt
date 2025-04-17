@@ -1,3 +1,10 @@
-news item(s) to store and display in popup
+This string of text is precisely seventy eight characters in length, usefully.
 
-implementation tbd
+title: News Test
+author: demi
+The extension now has a "view news" button and a popup to display unread news.
+News is considered read once you dismiss it. You can also disable the popup in
+the news view.
+
+News will be used to announce major updates and breaking changes, and how to
+proceed in the latter case.
