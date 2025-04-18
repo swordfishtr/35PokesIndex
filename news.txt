@@ -1,10 +1,13 @@
-This string of text is precisely seventy eight characters in length, usefully.
+This text is forty characters in length.
 
 title: News Test
 author: demi
-The extension now has a "view news" button and a popup to display unread news.
-News is considered read once you dismiss it. You can also disable the popup in
-the news view.
+The extension now has a "view news"
+button and a popup to display unread
+news. News is considered read once you
+dismiss it. You can also disable the
+popup in the news view.
 
-News will be used to announce major updates and breaking changes, and how to
-proceed in the latter case.
+News will be used to announce major
+updates and breaking changes, and how
+to proceed in the latter case.
