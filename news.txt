@@ -2,12 +2,14 @@ This text is forty characters in length.
 
 title: News Test
 author: demi
-The extension now has a "view news"
-button and a popup to display unread
-news. News is considered read once you
-dismiss it. You can also disable the
-popup in the news view.
+I added a news view to the extension
+which will hold the latest message from
+one of the maintainers. Its button is
+yellow when there are unread news.
 
-News will be used to announce major
-updates and breaking changes, and how
-to proceed in the latter case.
+This will be used to communicate only
+the most urgent information - major or
+breaking updates, and how to proceed -
+which is not suitable in #announcements
+where it might be overlooked or fail to
+reach its audience entirely.
