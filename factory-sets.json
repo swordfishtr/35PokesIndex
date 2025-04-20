@@ -255,7 +255,8 @@
 				{
 					"species": "Arcanine",
 					"item": [
-						"leftoversheavydutyboots"
+						"Leftovers",
+						"Heavy-Duty Boots"
 					],
 					"ability": [
 						"Intimidate"
@@ -1773,11 +1774,11 @@
 						"Timid"
 					],
 					"evs": {
-						"hp": 252,
+						"hp": 0,
 						"atk": 0,
 						"def": 0,
-						"spa": 4,
-						"spd": 0,
+						"spa": 252,
+						"spd": 4,
 						"spe": 252
 					},
 					"ivs": {
@@ -1800,7 +1801,42 @@
 						],
 						[
 							"Earth Power"
-						],
+						]
+					],
+					"teraType": [
+						"Psychic"
+					],
+					"weight": "30"
+				},
+				{
+					"species": "Grumpig",
+					"item": [
+						"Leftovers"
+					],
+					"ability": [
+						"Thick Fat"
+					],
+					"gender": "",
+					"nature": [
+						"Timid"
+					],
+					"evs": {
+						"hp": 252,
+						"atk": 0,
+						"def": 0,
+						"spa": 4,
+						"spd": 0,
+						"spe": 252
+					},
+					"ivs": {
+						"hp": 31,
+						"atk": 0,
+						"def": 31,
+						"spa": 31,
+						"spd": 31,
+						"spe": 31
+					},
+					"moves": [
 						[
 							"Psychic Noise",
 							"Future Sight"
@@ -2593,7 +2629,7 @@
 			"weight": 8
 		}
 	},
-	"2024/2024_04.txt": {
+	"2024/2024_03.txt": {
 		"seaking": {
 			"sets": [
 				{
