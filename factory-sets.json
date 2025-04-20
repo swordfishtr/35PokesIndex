@@ -100,7 +100,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 9
 		},
 		"crustle": {
 			"sets": [
@@ -152,7 +152,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 10
 		},
 		"arcanine": {
 			"sets": [
@@ -300,7 +300,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 9
 		},
 		"bastiodon": {
 			"sets": [
@@ -400,7 +400,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 3
 		},
 		"bombirdier": {
 			"sets": [
@@ -500,7 +500,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 9
 		},
 		"chimecho": {
 			"sets": [
@@ -601,7 +601,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 3
 		},
 		"coalossal": {
 			"sets": [
@@ -655,7 +655,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 2
 		},
 		"corsola": {
 			"sets": [
@@ -707,7 +707,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"cradily": {
 			"sets": [
@@ -806,7 +806,7 @@
 					"weight": "30"
 				}
 			],
-			"weight": 0
+			"weight": 8
 		},
 		"cyclizar": {
 			"sets": [
@@ -955,7 +955,7 @@
 					"weight": "30"
 				}
 			],
-			"weight": 0
+			"weight": 10
 		},
 		"dedenne": {
 			"sets": [
@@ -1055,7 +1055,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 4
 		},
 		"dipplin": {
 			"sets": [
@@ -1107,7 +1107,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 6
 		},
 		"donphan": {
 			"sets": [
@@ -1208,7 +1208,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 8
 		},
 		"drampa": {
 			"sets": [
@@ -1307,7 +1307,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 2
 		},
 		"dusknoir": {
 			"sets": [
@@ -1453,7 +1453,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 2
 		},
 		"dustox": {
 			"sets": [
@@ -1507,7 +1507,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"exploud": {
 			"sets": [
@@ -1606,7 +1606,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 10
 		},
 		"gastrodoneast": {
 			"sets": [
@@ -1708,7 +1708,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 7
 		},
 		"grumpig": {
 			"sets": [
@@ -1822,7 +1822,7 @@
 					"weight": "30"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"hypno": {
 			"sets": [
@@ -1875,7 +1875,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"kecleon": {
 			"sets": [
@@ -1975,7 +1975,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"marowak": {
 			"sets": [
@@ -2029,7 +2029,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"miltank": {
 			"sets": [
@@ -2082,7 +2082,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 7
 		},
 		"pincurchin": {
 			"sets": [
@@ -2182,7 +2182,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 2
 		},
 		"raticate": {
 			"sets": [
@@ -2236,7 +2236,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 4
 		},
 		"rotom": {
 			"sets": [
@@ -2336,7 +2336,7 @@
 					"weight": "50"
 				}
 			],
-			"weight": 0
+			"weight": 5
 		},
 		"tentacruel": {
 			"sets": [
@@ -2390,7 +2390,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 7
 		},
 		"shelgon": {
 			"sets": [
@@ -2443,7 +2443,7 @@
 					"weight": "100"
 				}
 			],
-			"weight": 0
+			"weight": 1
 		},
 		"typenull": {
 			"sets": [
@@ -2590,7 +2590,7 @@
 					"weight": "25"
 				}
 			],
-			"weight": 0
+			"weight": 8
 		}
 	}
 }
