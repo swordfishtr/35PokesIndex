@@ -3033,7 +3033,8 @@
 							"Protect"
 						],
 						[
-							"Baton Pass"
+							"Baton Pass",
+							"Toxic"
 						],
 						[
 							"Future Sight"
@@ -3351,7 +3352,7 @@
 						"Choice Band"
 					],
 					"ability": [
-						"Shell Armor"
+						"Scrappy"
 					],
 					"gender": "",
 					"nature": [
@@ -5304,7 +5305,7 @@
 						"Leftovers"
 					],
 					"ability": [
-						"Dancer"
+						"Drizzle"
 					],
 					"gender": "",
 					"nature": [
