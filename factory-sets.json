@@ -7955,11 +7955,11 @@
 						"Adamant"
 					],
 					"evs": {
-						"hp": 4,
+						"hp": 0,
 						"atk": 252,
 						"def": 0,
 						"spa": 0,
-						"spd": 0,
+						"spd": 4,
 						"spe": 252
 					},
 					"ivs": {
@@ -8976,6 +8976,60 @@
 						"Grass"
 					],
 					"weight": "100"
+				}
+			],
+			"weight": 1
+		},
+		"sceptile": {
+			"sets": [
+				{
+					"species": "Sceptile",
+					"item": [
+						"Life Orb"
+					],
+					"ability": [
+						"Overgrow"
+					],
+					"gender": "",
+					"nature": [
+						"Jolly"
+					],
+					"evs": {
+						"hp": 0,
+						"atk": 252,
+						"def": 0,
+						"spa": 0,
+						"spd": 4,
+						"spe": 252
+					},
+					"ivs": {
+						"hp": 31,
+						"atk": 31,
+						"def": 31,
+						"spa": 31,
+						"spd": 31,
+						"spe": 31
+					},
+					"moves": [
+						[
+							"Earthquake"
+						],
+						[
+							"Swords Dance"
+						],
+						[
+							"Rock Slide",
+							"Drain Punch",
+							"Thunder Punch"
+						],
+						[
+							"Leaf Blade"
+						]
+					],
+					"teraType": [
+						"Grass"
+					],
+					"weight": 100
 				}
 			],
 			"weight": 1
