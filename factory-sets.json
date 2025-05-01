@@ -6949,7 +6949,7 @@
 						[
 							"X-Scissor",
 							"X-Scissor",
-							"Fire Fang"
+							"Superpower"
 						],
 						[
 							"Thunder Fang",
@@ -7016,7 +7016,8 @@
 				{
 					"species": "Durant",
 					"item": [
-						"Choice Band"
+						"Choice Band",
+						"Wide Lens"
 					],
 					"ability": [
 						"Hustle"
@@ -11009,15 +11010,16 @@
 					],
 					"gender": "",
 					"nature": [
-						""
+						"Adamant",
+						"Jolly"
 					],
 					"evs": {
 						"hp": 0,
-						"atk": 0,
+						"atk": 252,
 						"def": 0,
 						"spa": 0,
-						"spd": 0,
-						"spe": 0
+						"spd": 4,
+						"spe": 252
 					},
 					"ivs": {
 						"hp": 31,
