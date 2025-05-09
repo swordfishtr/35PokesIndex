@@ -23113,7 +23113,7 @@
 			"weight": 1
 		}
 	},
-	"Uber": {
+	"Seniors/2024_04.txt": {
 		"forretress": {
 			"sets": [
 				{
@@ -23464,6 +23464,7 @@
 							"Focus Blast"
 						],
 						[
+							"Defog",
 							"Thunder Wave"
 						]
 					],
@@ -24671,7 +24672,7 @@
 							"Focus Blast"
 						],
 						[
-							"Substitute"
+							"Shadow Ball"
 						]
 					],
 					"teraType": [
@@ -25267,6 +25268,7 @@
 					},
 					"moves": [
 						[
+							"Defog",
 							"Spikes"
 						],
 						[
@@ -25688,7 +25690,7 @@
 					"teraType": [
 						"Ground"
 					],
-					"weight": 50
+					"weight": 75
 				},
 				{
 					"species": "Iron Treads",
@@ -25726,16 +25728,18 @@
 							"Volt Switch"
 						],
 						[
+							"Iron Head",
+							"Knock Off",
 							"Knock Off"
 						],
 						[
-							"Iron Head"
+							"Rapid Spin"
 						]
 					],
 					"teraType": [
 						"Ground"
 					],
-					"weight": 50
+					"weight": 25
 				}
 			],
 			"weight": 10
@@ -25837,6 +25841,108 @@
 						"Psychic"
 					],
 					"weight": 30
+				}
+			],
+			"weight": 10
+		},
+		"dhelmise": {
+			"sets": [
+				{
+					"species": "Dhelmise",
+					"item": [
+						"Assault Vest"
+					],
+					"ability": [
+						"Steelworker"
+					],
+					"gender": "",
+					"nature": [
+						"Careful"
+					],
+					"evs": {
+						"hp": 248,
+						"atk": 96,
+						"def": 68,
+						"spa": 0,
+						"spd": 96,
+						"spe": 0
+					},
+					"ivs": {
+						"hp": 31,
+						"atk": 31,
+						"def": 31,
+						"spa": 31,
+						"spd": 31,
+						"spe": 31
+					},
+					"moves": [
+						[
+							"Rapid Spin"
+						],
+						[
+							"Power Whip"
+						],
+						[
+							"Poltergeist"
+						],
+						[
+							"Anchor Shot",
+							"Knock Off"
+						]
+					],
+					"teraType": [
+						"Ghost"
+					],
+					"weight": 50
+				},
+				{
+					"species": "Dhelmise",
+					"item": [
+						"Kasib Berry",
+						"Colbur Berry"
+					],
+					"ability": [
+						"Steelworker"
+					],
+					"gender": "",
+					"nature": [
+						"Careful"
+					],
+					"evs": {
+						"hp": 248,
+						"atk": 0,
+						"def": 8,
+						"spa": 0,
+						"spd": 252,
+						"spe": 0
+					},
+					"ivs": {
+						"hp": 31,
+						"atk": 31,
+						"def": 31,
+						"spa": 31,
+						"spd": 31,
+						"spe": 31
+					},
+					"moves": [
+						[
+							"Rapid Spin"
+						],
+						[
+							"Power Whip"
+						],
+						[
+							"Poltergeist"
+						],
+						[
+							"Synthesis",
+							"Toxic"
+						]
+					],
+					"teraType": [
+						"Ghost"
+					],
+					"weight": 50
 				}
 			],
 			"weight": 10
