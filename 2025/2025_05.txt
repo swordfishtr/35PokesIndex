@@ -1,4 +1,5 @@
 May 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Inteleon, +Dragonair, +Vivillon, +Heatmor, +Cinccino, +Lopunny-Base, +Politoed, +Skarmory, +Maushold, +Nidoking, +Jumpluff, +Ribombee-Base, +Mudsdale, +Drednaw, +Meganium, +Kecleon, +Barraskewda, +Goodra-Base, +Carbink, +Raichu-Base, +Honchkrow, +Venusaur-Base, +Cofagrigus, +Lokix, +Frosmoth, +Pinsir-Base, +Empoleon, +Shiinotic, +Hitmontop, +Claydol, +Tangrowth, +Swoobat, +Swellow, +Mienshao, +Ninetales-Base
 Inteleon
 Dragonair
 Vivillon
