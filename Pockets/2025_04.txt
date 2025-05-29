@@ -1,4 +1,4 @@
-Apr 2025
+Genetic Apex
 code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Tauros-Base, +Charizard-Base, +Raticate-Base, +Aerodactyl-Base, +Magneton, +Machamp, +Pikachu-Base, +Vaporeon, +Gengar-Base, +Gardevoir-Base, +Pidgeot-Base, +Primeape, +Swoobat, +Rapidash-Base, +Kabutops, +Heatmor, +Pincurchin, +Nidoking, +Tentacruel, +Cloyster, +Mawile-Base, +Dubwool, +Golduck, +Chansey, +Electrode-Base, +Weezing-Base, +Golem-Base, +Cinccino, +Jynx, +Golurk, +Dugtrio-Base, +Mienshao, +Starmie, +Centiskorch, +Electabuzz
 Tauros
 Charizard

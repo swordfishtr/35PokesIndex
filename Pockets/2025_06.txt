@@ -1,0 +1,37 @@
+Space-Time Smackdown
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mightyena, +Dusknoir, +Uxie, +Purugly, +Electrode, +Gabite, +Hitmontop, +Lickilicky, +Lumineon, +Togekiss, +Kricketune, +Glaceon, +Lopunny, +Toxicroak, +Vespiquen, +Drapion, +Weavile, +Bellossom, +Cresselia, +Skuntank, +Empoleon, +Bastiodon, +Abomasnow, +Rotom-Mow, +Skarmory, +Staraptor, +Carnivine, +Wormadam-Trash, +Dusclops, +Regigigas, +Infernape, +Rotom-Wash, +Gliscor, +Wormadam-Sandy, +Rampardos
+Mightyena
+Dusknoir
+Uxie
+Purugly
+Electrode
+Gabite
+Hitmontop
+Lickilicky
+Lumineon
+Togekiss
+Kricketune
+Glaceon
+Lopunny
+Toxicroak
+Vespiquen
+Drapion
+Weavile
+Bellossom
+Cresselia
+Skuntank
+Empoleon
+Bastiodon
+Abomasnow
+Rotom-Mow
+Skarmory
+Staraptor
+Carnivine
+Wormadam-Trash
+Dusclops
+Regigigas
+Infernape
+Rotom-Wash
+Gliscor
+Wormadam-Sandy
+Rampardos
