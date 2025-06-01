@@ -1,0 +1,37 @@
+June 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Tyranitar-Base, +Masquerain, +Electrode-Base, +Arctozolt, +Honchkrow, +Mienshao, +Simisage, +Luvdisc, +Quaquaval, +Toedscruel, +Grapploct, +Slowking-Base, +Smeargle, +Tangrowth, +Furfrou, +Rabsca, +Drakloak, +Mimikyu-Base, +Uxie, +Primeape, +Purugly, +Orbeetle, +Glimmora, +Klawf, +Archeops, +Espeon, +Arbok, +Dugtrio-Alola, +Slowking-Galar, +Ditto, +Bruxish, +Escavalier, +Simipour, +Calyrex-Base, +Lunatone
+tyranitar
+masquerain
+electrode
+arctozolt
+honchkrow
+mienshao
+simisage
+luvdisc
+quaquaval
+toedscruel
+grapploct
+slowking
+smeargle
+tangrowth
+furfrou
+rabsca
+drakloak
+mimikyu
+uxie
+primeape
+purugly
+orbeetle
+glimmora
+klawf
+archeops
+espeon
+arbok
+dugtrio-alola
+slowking-galar
+ditto
+bruxish
+escavalier
+simipour
+calyrex
+lunatone
