@@ -1,0 +1,37 @@
+Vision E, Version 1
+code: /challenge gen7ou @@@ Evasion Abilities Clause, -Hidden Power, -Altarianite, -Diancite, -Galladite, -All Pokemon, +Abomasnow, +Altaria, +Audino, +Banette, +Blastoise, +Bronzong, +Diancie, +Flareon, +Flygon, +Forretress, +Froslass, +Gallade, +Garbodor, +Gigalith, +Golisopod, +Golurk, +Guzzlord, +Hitmontop, +Lycanroc-Base, +Magmortar, +Milotic, +Miltank, +Moltres, +Primeape, +Roserade, +Rotom-Frost, +Seismitoad, +Shaymin, +Silvally-Fairy, +Skuntank, +Swellow, +Togedemaru, +Vikavolt, +Xatu, +Zoroark
+Bronzong
+Golurk
+Shaymin
+Miltank
+Flareon
+Garbodor
+Blastoise (mega)
+Abomasnow (mega)
+Hitmontop
+Golisopod
+Forretress
+Skuntank
+Seismitoad
+Rotom-Frost
+Lycanroc
+Silvally-Fairy
+Togedemaru
+Diancie
+Moltres
+Banette (mega)
+Vikavolt
+Flygon
+Swellow
+Gigalith
+Primeape
+Altaria
+Guzzlord
+Audino (mega)
+Gallade
+Froslass
+Zoroark
+Xatu
+Roserade
+Milotic
+Magmortar
