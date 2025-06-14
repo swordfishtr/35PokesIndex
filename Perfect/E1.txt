@@ -6,7 +6,9 @@ Shaymin
 Miltank
 Flareon
 Garbodor
+Blastoise
 Blastoise (mega)
+Abomasnow
 Abomasnow (mega)
 Hitmontop
 Golisopod
@@ -19,6 +21,7 @@ Silvally-Fairy
 Togedemaru
 Diancie
 Moltres
+Banette
 Banette (mega)
 Vikavolt
 Flygon
@@ -27,6 +30,7 @@ Gigalith
 Primeape
 Altaria
 Guzzlord
+Audino
 Audino (mega)
 Gallade
 Froslass
