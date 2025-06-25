@@ -1,0 +1,42 @@
+E1 test
+rules; oldgen: 7
+code: /challenge gen7ou @@@ -All Pokemon, !Sleep Clause Mod, Sleep Moves Clause, Evasion Abilities Clause, -Hidden Power, -Altarianite, -Diancite, -Galladite, +Abomasnow, +Altaria, +Audino, +Banette, +Blastoise, +Bronzong, +Diancie, +Flareon, +Flygon, +Forretress, +Froslass, +Gallade, +Garbodor, +Gigalith, +Golisopod, +Golurk, +Guzzlord, +Hitmontop, +Lycanroc-Base, +Magmortar, +Milotic, +Miltank, +Moltres, +Primeape, +Roserade, +Rotom-Frost, +Seismitoad, +Shaymin, +Silvally-Fairy, +Skuntank, +Swellow, +Togedemaru, +Vikavolt, +Xatu, +Zoroark
+Golurk
+Flareon
+Lycanroc
+Togedemaru
+Froslass
+Roserade
+Magmortar
+Abomasnow
+Abomasnow (mega)
+Audino
+Audino (mega)
+Banette
+Banette (mega)
+Blastoise
+Blastoise (mega)
+Altaria
+Bronzong
+Diancie
+Flygon
+Forretress
+Gallade
+Garbodor
+Gigalith
+Golisopod
+Guzzlord
+Hitmontop
+Moltres
+Milotic
+Miltank
+Primeape
+Rotom-Frost
+Seismitoad
+Shaymin
+Silvally-Fairy
+Skuntank
+Swellow
+Vikavolt
+Xatu
+Zoroark
