@@ -1,5 +1,6 @@
-Sep 2025
+Sep 2024
 rules; moves;
+code: /challenge gen9nationaldexubers @@@ -allmoves, +gigaimpact, +rage, +metalburst, +mefirst, +stealthrock, +acid, +psychicnoise, +clearsmog, +curse, +fakeout, +soak, +dig, +fling, +wonderroom, +sludge, +acidarmor, +hurricane, +gastroacid, +powersplit, +sweetscent, +disable, +bodypress, +spite, +shockwave, +sludgebomb, +flail, +bubble, +inferno, +knockoff, +autotomize, +withdraw, +spark, +mimic, +vinewhip, +focusblast
 Giga Impact
 Rage
 Metal Burst

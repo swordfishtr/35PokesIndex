@@ -1,5 +1,6 @@
 Vision Z, Version 1
 rules; moves;
+code: /challenge gen9nationaldexubers @@@ -regenerator>1, -allmoves, +weatherball, +hiddenpower, +uturn, +overheat, +gigaimpact, +retaliate, +acrobatics, +aquaring, +aquatail, +aromatherapy, +assist, +bellydrum, +bodypress, +stockpile, +thunder, +bounce, +dig, +clearsmog, +expandingforce, +crunch, +destinybond, +dragonbreath, +feintattack, +freezedry, +grassknot, +workup, +icepunch, +incinerate, +trick, +hex, +rockslide, +ironhead, +alluringvoice, +sludge, +thief
 Weather Ball
 Hidden Power
 U-Turn

@@ -1,5 +1,6 @@
 May 2025
 rules; moves;
+code: /challenge gen9nationaldexubers @@@ -allmoves, +absorb, +bubble, +cottonguard, +smackdown, +skillswap, +guillotine, +vacuumwave, +retaliate, +miracleeye, +lowsweep, +firepunch, +aurasphere, +flatter, +scorchingsands, +irondefense, +psybeam, +solarbeam, +frenzyplant, +nightshade, +skyattack, +airslash, +psychicfangs, +payback, +lovelykiss, +hydrocannon, +bonerush, +dragondance, +frostbreath, +heavyslam, +temperflare, +magicalleaf, +aquaring, +rockpolish, +rockslide, +bulletpunch
 Absorb
 Bubble
 Cotton Guard
