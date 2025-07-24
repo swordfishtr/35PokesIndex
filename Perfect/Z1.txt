@@ -1,0 +1,37 @@
+Vision Z, Version 1
+rules; moves;
+Weather Ball
+Hidden Power
+U-Turn
+Overheat
+Giga Impact
+Retaliate
+Acrobatics
+Aqua Ring
+Aqua Tail
+Aromatherapy
+Assist
+Belly Drum
+Body Press
+Stockpile
+Thunder
+Bounce
+Dig
+Clear Smog
+Expanding Force
+Crunch
+Destiny Bond
+Dragon Breath
+Feint Attack
+Freeze Dry
+Grass Knot
+Work Up
+Ice Punch
+Incinerate
+Trick
+Hex
+Rock Slide
+Iron Head
+Alluring Voice
+Sludge
+Thief
