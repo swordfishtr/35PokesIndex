@@ -1,4 +1,5 @@
 Feb 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Turtwig, +Clamperl, +Minccino, +Binacle, +Goldeen, +Tadbulb, +Ponyta-Galar, +Shinx, +Ferroseed, +Sentret, +Seedot, +Machop, +Tandemaus, +Shroodle, +Lickitung, +Snom, +Fletchling, +Onix, +Bagon, +Darumaka-Galar, +Tepig, +Phanpy, +Pumpkaboo-Base, +Bellsprout, +Taillow, +Spoink, +Varoom, +Magikarp, +Squirtle, +Tynamo, +Lotad, +Diglett-Base, +Joltik, +Wiglett, +Remoraid
 Turtwig
 Clamperl
 Minccino

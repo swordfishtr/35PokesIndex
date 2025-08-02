@@ -1,5 +1,5 @@
 Dec 2024
-# NDLC challenge code?
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mareanie, +Cubchoo, +Corphish, +Charmander, +Cleffa, +Snover, +Goomy, +Growlithe-Hisui, +Sandygast, +Fomantis, +Tandemaus, +Maschiff, +Grookey, +Treecko, +Voltorb-Base, +Blitzle, +Sprigatito, +Barboach, +Ducklett, +Gulpin, +Munchlax, +Rhyhorn, +Totodile, +Ferroseed, +Staryu, +Corsola-Galar, +Dwebble, +Archen, +Bulbasaur, +Turtwig, +Sandshrew-Alola, +Hippopotas, +Eevee-Base, +Dewpider, +Snivy
 mareanie
 cubchoo
 corphish

@@ -1,4 +1,5 @@
 Nov 2024
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Noibat, +Abra, +Smoochum, +Rattata-Base, +Helioptile, +Turtwig, +Gulpin, +Wailmer, +Skiddo, +Spritzee, +Hoothoot, +Frillish, +Electrike, +Tepig, +Goomy, +Chewtle, +Mienfoo, +Makuhita, +Lotad, +Pancham, +Zorua-Hisui, +Fidough, +Frigibax, +Totodile, +Slakoth, +Wooper-Paldea, +Hoppip, +Dwebble, +Bronzor, +Sobble, +Cyndaquil, +Swablu, +Vullaby, +Patrat, +Weedle
 noibat
 abra
 smoochum

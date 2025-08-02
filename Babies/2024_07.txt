@@ -1,4 +1,5 @@
 Jul 2024
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Glameow, +Smoochum, +Hoppip, +Squirtle, +Gastly, +Corphish, +Dreepy, +Fuecoco, +Froakie, +Tepig, +Snivy, +Chespin, +Pidove, +Petilil, +Impidimp, +Zigzagoon-Galar, +Porygon, +Clamperl, +Machop, +Chewtle, +Lillipup, +Skrelp, +Bunnelby, +Mareanie, +Shieldon, +Larvitar, +Goldeen, +Meowth-Galar, +Sandygast, +Sewaddle, +Meltan, +Surskit, +Wiglett, +Rookidee
 glameow
 smoochum
 hoppip

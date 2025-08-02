@@ -1,5 +1,5 @@
 Mar 2024
-# NDLC challenge code?
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Voltorb-Hisui, +Natu, +Charmander, +Spearow, +Sandshrew-Base, +Exeggcute, +Koffing, +Staryu, +Remoraid, +Larvitar, +Gulpin, +Carvanha, +Shuppet, +Bidoof, +Hippopotas, +Remoraid, +Mantyke, +Panpour, +Timburr, +Karrablast, +Chespin, +Honedge, +Inkay, +Rowlet, +Grubbin, +Fomantis, +Rolycoly, +Hatenna, +Dreepy, +Wiglett, +Tympole, +Tirtouga, +Helioptile, +Lechonk, +Popplio
 voltorb-hisui
 natu
 charmander

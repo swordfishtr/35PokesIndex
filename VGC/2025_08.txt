@@ -1,0 +1,3 @@
+Aug 2025
+parent: 2025/2025_08.txt
+code: /challenge vgc2025regi @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, bestof=3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Toxapex, +Chesnaught, +Shedinja, +Gabite, +Eldegoss, +Toxicroak, +Weavile, +Cramorant-Base, +Stoutland, +Frosmoth, +Basculegion-F, +Oricorio-Pom-Pom, +Dugtrio-Base, +Yanmega, +Amoonguss, +Arcanine-Base, +Flygon, +Maushold, +Maractus, +Gardevoir-Base, +Hatterene, +Beartic, +Copperajah, +Incineroar, +Froslass, +Heliolisk, +Cobalion, +Jolteon, +Chandelure, +Liepard, +Overqwil, +Brambleghast, +Sylveon, +Uxie, +Cursola

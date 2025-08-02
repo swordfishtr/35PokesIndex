@@ -1,4 +1,5 @@
 Oct 2024
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Flittle, +Cottonee, +Sizzlipede, +Surskit, +Varoom, +Taillow, +Bunnelby, +Gimmighoul-Roaming, +Cubchoo, +Cranidos, +Purrloin, +Lotad, +Remoraid, +Spearow, +Fuecoco, +Maschiff, +Growlithe-Base, +Lileep, +Doduo, +Nacli, +Makuhita, +Espurr, +Houndour, +Slakoth, +Yamask-Galar, +Slowpoke-Galar, +Joltik, +Omanyte, +Tirtouga, +Sprigatito, +Popplio, +Meowth-Galar, +Shroomish, +Helioptile, +Applin
 flittle
 cottonee
 sizzlipede

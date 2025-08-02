@@ -1,5 +1,5 @@
 Dec 2023
-# NDLC challenge code?
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Corsola-Galar, +Lotad, +Inkay, +Snom, +Cetoddle, +Noibat, +Porygon, +Lickitung, +Hippopotas, +Skwovet, +Venipede, +Slowpoke-Base, +Silicobra, +Wiglett, +Diglett-Alola, +Snorunt, +Sunkern, +Tandemaus, +Wooper-Base, +Clamperl, +Flittle, +Remoraid, +Beldum, +Cacnea, +Magnemite, +Toedscool, +Pansage, +Impidimp, +Croagunk, +Ponyta-Base, +Slakoth, +Blitzle, +Charcadet, +Minccino, +Spoink, -Deep Sea Tooth
 Note: Deep Sea Tooth is banned.; header;
 corsola-galar
 lotad

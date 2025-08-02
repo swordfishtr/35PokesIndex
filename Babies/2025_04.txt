@@ -1,4 +1,5 @@
 Apr 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Deino, +Lechonk, +Tentacool, +Munna, +Hatenna, +Drilbur, +Bagon, +Arrokuda, +Wynaut, +Psyduck, +Ferroseed, +Beldum, +Exeggcute, +Charmander, +Archen, +Capsakid, +Roggenrola, +Geodude-Base, +Petilil, +Larvesta, +Swablu, +Glimmet, +Kricketot, +Karrablast, +Gimmighoul-Roaming, +Amaura, +Pawniard, +Abra, +Sprigatito, +Rhyhorn, +Lillipup, +Tyrunt, +Chewtle, +Slugma, +Cacnea
 Deino
 Lechonk
 Tentacool

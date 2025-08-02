@@ -1,5 +1,5 @@
 Jan 2025
-# chal code?
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Pidgey, +Charmander, +Gothita, +Burmy, +Zorua-Base, +Scorbunny, +Anorith, +Stunky, +Cranidos, +Inkay, +Patrat, +Impidimp, +Sewaddle, +Croagunk, +Sunkern, +Combee, +Larvesta, +Vanillite, +Shieldon, +Shinx, +Oddish, +Ponyta-Galar, +Drilbur, +Rockruff-Base, +Paras, +Torchic, +Ledyba, +Smoochum, +Remoraid, +Snorunt, +Swablu, +Grimer-Base, +Popplio, +Gulpin, +Gimmighoul-Roaming
 Pidgey
 Charmander
 Gothita

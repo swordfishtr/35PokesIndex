@@ -1,5 +1,5 @@
 Jan 2024
-# NDLC challenge code?
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, Max Level = 5, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Slugma, +Torchic, +Minccino, +Spheal, +Nacli, +Greavard, +Trapinch, +Tympole, +Mudkip, +Snover, +Squirtle, +Exeggcute, +Rufflet, +Paras, +Ralts, +Vullaby, +Goldeen, +Shinx, +Venonat, +Stufful, +Poochyena, +Drifloon, +Riolu, +Rolycoly, +Snom, +Wurmple, +Slakoth, +Smoochum, +Wailmer, +Gastly, +Larvesta, +Larvitar, +Litwick, +Charcadet, +Solosis
 slugma
 torchic
 minccino
