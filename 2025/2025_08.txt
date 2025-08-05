@@ -1,6 +1,6 @@
 Aug 2025
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Toxapex, +Chesnaught, +Shedinja, +Gabite, +Eldegoss, +Toxicroak, +Weavile, +Cramorant-Base, +Stoutland, +Frosmoth, +Basculegion-F, +Oricorio-Pom-Pom, +Dugtrio-Base, +Yanmega, +Amoonguss, +Arcanine-Base, +Flygon, +Maushold, +Maractus, +Gardevoir-Base, +Hatterene, +Beartic, +Copperajah, +Incineroar, +Froslass, +Heliolisk, +Cobalion, +Jolteon, +Chandelure, +Liepard, +Overqwil, +Brambleghast, +Sylveon, +Uxie, +Cursola
-Toxapex
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Scizor-Base, +Chesnaught, +Shedinja, +Gabite, +Eldegoss, +Toxicroak, +Weavile, +Cramorant-Base, +Stoutland, +Frosmoth, +Basculegion-F, +Oricorio-Pom-Pom, +Dugtrio-Base, +Yanmega, +Amoonguss, +Arcanine-Base, +Flygon, +Maushold, +Maractus, +Gardevoir-Base, +Hatterene, +Beartic, +Copperajah, +Incineroar, +Froslass, +Heliolisk, +Cobalion, +Jolteon, +Chandelure, +Liepard, +Overqwil, +Brambleghast, +Sylveon, +Uxie, +Cursola
+Scizor
 Chesnaught
 Shedinja
 Gabite
