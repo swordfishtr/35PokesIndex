@@ -1,0 +1,37 @@
+Shining Revelry
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Pachirisu, +Pawmot, +Raticate-Base, +Flamigo, +Electrode-Base, +Wugtrio, +Tauros-Paldea-Blaze, +Mr. Mime-Base, +Drifblim, +Magmortar, +Dondozo, +Arbok, +Hitmonlee, +Charizard-Base, +Alakazam-Base, +Spiritomb, +Gimmighoul-Base, +Lucario-Base, +Cyclizar, +Revavroom, +Tatsugiri, +Machamp, +Tinkaton, +Clodsire, +Floragato, +Wigglytuff, +Lopunny-Base, +Pinsir-Base, +Lickilicky, +Floatzel, +Hitmonchan, +Bibarel, +Tentacruel, +Beedrill-Base, +Pikachu-Base
+Pachirisu
+Pawmot
+Raticate-Base
+Flamigo
+Electrode-Base
+Wugtrio
+Tauros-Paldea-Blaze
+Mr. Mime-Base
+Drifblim
+Magmortar
+Dondozo
+Arbok
+Hitmonlee
+Charizard-Base
+Alakazam-Base
+Spiritomb
+Gimmighoul-Base
+Lucario-Base
+Cyclizar
+Revavroom
+Tatsugiri
+Machamp
+Tinkaton
+Clodsire
+Floragato
+Wigglytuff
+Lopunny-Base
+Pinsir-Base
+Lickilicky
+Floatzel
+Hitmonchan
+Bibarel
+Tentacruel
+Beedrill-Base
+Pikachu-Base
