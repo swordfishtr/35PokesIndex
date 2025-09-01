@@ -1,0 +1,37 @@
+Sep 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Galvantula, +Milotic, +Toxicroak, +Avalugg-Base, +Wormadam-Base, +Crawdaunt, +Vikavolt-Base, +Trapinch, +Grimmsnarl, +Florges, +Ludicolo, +Falinks, +Primeape, +Arbok, +Sceptile-Base, +Silvally-Dragon, +Cobalion, +Ferrothorn, +Musharna, +Chesnaught, +Klawf, +Clodsire, +Overqwil, +Torterra, +Pincurchin, +Eldegoss, +Empoleon, +Marowak-Alola, +Regice, +Feraligatr, +Slurpuff, +Mantine, +Scolipede, +Lucario-Base, +Cacturne
+galvantula
+milotic
+toxicroak
+avalugg
+wormadam-grass
+crawdaunt
+vikavolt
+trapinch
+grimmsnarl
+florges
+ludicolo
+falinks
+primeape
+arbok
+sceptile
+silvally-dragon
+cobalion
+ferrothorn
+musharna
+chesnaught
+klawf
+clodsire
+overqwil
+torterra
+pincurchin
+eldegoss
+empoleon
+marowak-alola
+regice
+feraligatr
+slurpuff
+mantine
+scolipede
+lucario
+cacturne
