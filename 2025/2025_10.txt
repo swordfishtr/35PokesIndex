@@ -1,0 +1,37 @@
+Oct 2025
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Dudunsparce, +Muk-Alola, +Ambipom, +Floatzel, +Sandslash-Base, +Perrserker, +Copperajah, +Dugtrio-Alola, +Meganium, +Tauros-Base, +Spinda, +Munkidori, +Basculegion-F, +Farigiraf, +Porygon-Z, +Tauros-Paldea-Aqua, +Corviknight, +Sigilyph, +Nidoking, +Armarouge, +Froslass, +Magmortar, +Zoroark-Base, +Articuno-Base, +Hippowdon, +Orthworm, +Weezing-Galar, +Ninjask, +Sirfetch’d, +Crobat, +Golem-Alola, +Steelix-Base, +Pyukumuku, +Bibarel, +Simisear
+dudunsparce
+mukalola
+ambipom
+floatzel
+sandslash
+perrserker
+copperajah
+dugtrioalola
+meganium
+tauros
+spinda
+munkidori
+basculegionf
+farigiraf
+porygonz
+taurospaldeaaqua
+corviknight
+sigilyph
+nidoking
+armarouge
+froslass
+magmortar
+zoroark
+articuno
+hippowdon
+orthworm
+weezinggalar
+ninjask
+sirfetchd
+crobat
+golemalola
+steelix
+pyukumuku
+bibarel
+simisear
