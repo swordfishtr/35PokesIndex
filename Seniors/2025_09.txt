@@ -1,0 +1,37 @@
+Sep 2025
+code: /challenge gen9nationaldex35pokes @@@ !Obtainable Formes, !Evasion Abilities Clause, !DryPass Clause, Baton Pass Clause, -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Absol-Mega, +Aegislash-Base, +Alakazam-Mega, +Annihilape, +Araquanid-Base, +Arceus-Bug, +Beedrill-Mega, +Dialga-Base, +Dragapult, +Ferrothorn, +Fezandipiti, +Garchomp-Base, +Genesect-Base, +Giratina-Base, +Great Tusk, +Heatran, +Hoopa-Unbound, +Iron Treads, +Iron Valiant, +Kartana, +Landorus-Base, +Latias-Mega, +Magearna-Base, +Mawile-Mega, +Naganadel, +Ogerpon-Hearthflame, +Palkia-Base, +Pinsir-Mega, +Quagsire, +Tapu Fini, +Tapu Koko, +Tapu Lele, +Ting-Lu, +Tyranitar-Mega, +Urshifu-Rapid-Strike
+Absol-Mega
+Aegislash
+Alakazam-Mega
+Annihilape
+Araquanid
+Arceus-Bug
+Beedrill-Mega
+Dialga
+Dragapult
+Ferrothorn
+Fezandipiti
+Garchomp
+Genesect
+Giratina
+Great Tusk
+Heatran
+Hoopa-Unbound
+Iron Treads
+Iron Valiant
+Kartana
+Landorus
+Latias-Mega
+Magearna
+Mawile-Mega
+Naganadel
+Ogerpon-Hearthflame
+Palkia
+Pinsir-Mega
+Quagsire
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Ting-Lu
+Tyranitar-Mega
+Urshifu-Rapid-Strike
