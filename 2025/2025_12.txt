@@ -1,5 +1,5 @@
 Dec 2025
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mamoswine, +Oricorio-Baile, +Galvantula, +Bombirdier, +Gothitelle, +Drampa, +Perrserker, +Glastrier, +Klinklang, +Walrein, +Uxie, +Vanilluxe, +Serperior, +Revavroom, +Falinks, +Braviary-Hisui, +Wyrdeer, +Beedrill, +Blastoise, +Squawkabilly, +Swoobat, +Lurantis, +Hypno, +Scrafty, +Sinistcha, +Cyclizar, +Mothim, +Mismagius, +Goodra, +Mandibuzz, +Delcatty, +Skarmory, +Cherrim, +Centiskorch, +Wishiwashi-School
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mamoswine, +Oricorio-Baile, +Galvantula, +Bombirdier, +Gothitelle, +Drampa, +Perrserker, +Glastrier, +Klinklang, +Walrein, +Uxie, +Vanilluxe, +Serperior, +Revavroom, +Falinks, +Braviary-Hisui, +Wyrdeer, +Beedrill, +Blastoise, +Squawkabilly-Green, +Swoobat, +Lurantis, +Hypno, +Scrafty, +Sinistcha, +Cyclizar, +Mothim, +Mismagius, +Goodra, +Mandibuzz, +Delcatty, +Skarmory, +Cherrim, +Centiskorch, +Wishiwashi-School
 mamoswine
 oricorio-baile
 galvantula
@@ -19,7 +19,7 @@ braviary-hisui
 wyrdeer
 beedrill
 blastoise
-squawkabilly
+squawkabilly-green
 swoobat
 lurantis
 hypno
