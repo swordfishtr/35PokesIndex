@@ -1,37 +1,3 @@
 Dec 2025
-code: ???
-mamoswine
-oricorio-baile
-galvantula
-bombirdier
-gothitelle
-drampa
-perrserker
-glastrier
-klinklang
-walrein
-uxie
-vanilluxe
-serperior
-revavroom
-falinks
-braviary-hisui
-wyrdeer
-beedrill
-blastoise
-squawkabilly
-swoobat
-lurantis
-hypno
-scrafty
-sinistcha
-cyclizar
-mothim
-mismagius
-goodra
-mandibuzz
-delcatty
-skarmory
-cherrim
-centiskorch
-wishiwashi-school
+parent: 2025/2025_12.txt
+code: /challenge vgc2025regi @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, bestof=3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Mamoswine, +Oricorio-Baile, +Galvantula, +Bombirdier, +Gothitelle, +Drampa-Base, +Perrserker, +Glastrier, +Klinklang, +Walrein, +Uxie, +Vanilluxe, +Serperior, +Revavroom, +Falinks-Base, +Braviary-Hisui, +Wyrdeer, +Beedrill-Base, +Blastoise-Base, +Squawkabilly-Green, +Swoobat, +Lurantis-Base, +Hypno, +Scrafty-Base, +Sinistcha, +Cyclizar, +Mothim, +Mismagius, +Goodra-Base, +Mandibuzz, +Delcatty, +Skarmory-Base, +Cherrim-Base, +Centiskorch, +Wishiwashi
