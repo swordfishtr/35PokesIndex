@@ -34,4 +34,4 @@ delcatty
 skarmory
 cherrim
 centiskorch
-wishiwashi
+wishiwashi-school
