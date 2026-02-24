@@ -1,4 +1,4 @@
 Jan 2026
-parent: 2026/2026_1.txt
+parent: 2026/2026_01.txt
 code: /challenge vgc2025regi @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, bestof=3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Hatterene, +Medicham, +Orbeetle, +Overqwil, +Celebi, +Scovillain, +Sharpedo, +Cobalion, +Indeedee, +Greedent, +Cradily, +Dedenne, +Whimsicott, +Pinsir, +Tropius, +Shedinja, +Pincurchin, +Rotom-Wash, +Samurott, +Vivillon, +Cinccino, +Steelix, +Fezandipiti, +Oricorio-Pom-Pom, +Veluza, +Tyrantrum, +Heatmor, +carracosta, +Typhlosion-Hisui, +gabite, +houndstone, +lilligant, +granbull,+shiftry,+type: null 
 

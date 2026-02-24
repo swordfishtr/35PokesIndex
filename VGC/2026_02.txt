@@ -1,3 +1,3 @@
-Jan 2026
-parent: 2026/2026_2.txt
+Feb 2026
+parent: 2026/2026_02.txt
 code: /challenge vgc2025regi @@@ Terastal Clause, -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, bestof=3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Articuno-Galar, +Aurorus, +Bellossom, +Bewear, +Blastoise-Base, +Dodrio, +Entei, +Falinks-Base, +Flygon, +Furret, +Goodra-Hisui, +Gumshoos-Base, +Heliolisk, +Hydrapple, +Indeedee-F, +Iron Thorns, +Leavanny, +Lickilicky, +Ludicolo, +Maractus, +Meganium-Base, +Polteageist, +Probopass, +Regieleki, +Rhyperior, +Seismitoad, +Shiinotic, +Slaking, +Spidops, +Spiritomb, +Unfezant, +Vanilluxe, +Victreebel-Base, +Weezing-Galar, +Wyrdeer
