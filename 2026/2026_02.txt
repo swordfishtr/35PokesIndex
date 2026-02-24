@@ -1,0 +1,37 @@
+Feb 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Articuno-Galar, +Aurorus, +Bellossom, +Bewear, +Blastoise-Base, +Dodrio, +Entei, +Falinks-Base, +Flygon, +Furret, +Goodra-Hisui, +Gumshoos-Base, +Heliolisk, +Hydrapple, +Indeedee-F, +Iron Thorns, +Leavanny, +Lickilicky, +Ludicolo, +Maractus, +Meganium-Base, +Polteageist, +Probopass, +Regieleki, +Rhyperior, +Seismitoad, +Shiinotic, +Slaking, +Spidops, +Spiritomb, +Unfezant, +Vanilluxe, +Victreebel-Base, +Weezing-Galar, +Wyrdeer
+dodrio
+victreebel
+rhyperior
+blastoise
+wyrdeer
+ludicolo
+hydrapple
+seismitoad
+spiritomb
+heliolisk
+flygon
+gumshoos
+weezinggalar
+aurorus
+articunogalar
+shiinotic
+bewear
+unfezant
+polteageist
+spidops
+furret
+indeedeef
+bellossom
+falinks
+maractus
+leavanny
+lickilicky
+entei
+goodrahisui
+slaking
+vanilluxe
+regieleki
+ironthorns
+probopass
+meganium
