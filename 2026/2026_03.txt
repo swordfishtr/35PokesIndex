@@ -1,0 +1,37 @@
+Mar 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Aerodactyl-Base, +Arctozolt, +Armaldo, +Armarouge, +Bronzong, +Centiskorch, +Cherrim-Base, +Cyclizar, +Dhelmise, +Dondozo, +Drakloak, +Empoleon, +Glaceon, +Golduck, +Gyarados-Base, +Jellicent, +Jumpluff, +Kecleon, +Kilowattrel, +Kingdra, +Lunatone, +Musharna, +Noivern, +Palossand, +Pincurchin, +Reuniclus, +Revavroom, +Sandslash-Alola, +Snorlax, +Solrock, +Stonjourner, +Tyranitar-Base, +Vaporeon, +Virizion, +Wigglytuff
+Aerodactyl
+Arctozolt
+Armaldo
+Armarouge
+Bronzong
+Centiskorch
+Cherrim
+Cyclizar
+Dhelmise
+Dondozo
+Drakloak
+Empoleon
+Glaceon
+Golduck
+Gyarados
+Jellicent
+Jumpluff
+Kecleon
+Kilowattrel
+Kingdra
+Lunatone
+Musharna
+Noivern
+Palossand
+Pincurchin
+Reuniclus
+Revavroom
+Sandslash-Alola
+Snorlax
+Solrock
+Stonjourner
+Tyranitar
+Vaporeon
+Virizion
+Wigglytuff
