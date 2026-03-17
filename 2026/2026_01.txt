@@ -1,5 +1,5 @@
 Jan 2026
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, !Sleep Moves Clause, Sleep Clause Mod, +Hatterene, +Medicham, +Orbeetle, +Overqwil, +Celebi, +Scovillain, +Sharpedo, +Cobalion, +Indeedee, +Greedent, +Cradily, +Dedenne, +Whimsicott, +Pinsir, +Tropius, +Shedinja, +Pincurchin, +Rotom-Wash, +Samurott, +Vivillon, +Cinccino, +Steelix, +Fezandipiti, +Oricorio-Pom-Pom, +Veluza, +Tyrantrum, +Heatmor, +carracosta, +Typhlosion-Hisui, +gabite, +houndstone, +lilligant, +granbull,+shiftry,+type: null
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, !Sleep Moves Clause, Sleep Clause Mod, -Ultranecrozium Z, -Solganium Z, -Lunalium Z, -Mewnium Z, -Marshadium Z, +Hatterene, +Medicham-Base, +Orbeetle, +Overqwil, +Celebi, +Scovillain, +Sharpedo-Base, +Cobalion, +Indeedee-M, +Greedent, +Cradily, +Dedenne, +Whimsicott, +Pinsir-Base, +Tropius, +Shedinja, +Pincurchin, +Rotom-Wash, +Samurott-Base, +Vivillon, +Cinccino, +Steelix-Base, +Fezandipiti, +Oricorio-Pom-Pom, +Veluza, +Tyrantrum, +Heatmor, +Carracosta, +Typhlosion-Hisui, +Gabite, +Houndstone, +Lilligant-Base, +Granbull, +Shiftry, +Type: Null
 hatterene
 medicham
 orbeetle
