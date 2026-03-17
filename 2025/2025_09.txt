@@ -1,5 +1,5 @@
 Sep 2025
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Galvantula, +Milotic, +Toxicroak, +Avalugg-Base, +Wormadam-Base, +Crawdaunt, +Vikavolt-Base, +Trapinch, +Grimmsnarl, +Florges, +Ludicolo, +Falinks, +Primeape, +Arbok, +Sceptile-Base, +Silvally-Dragon, +Cobalion, +Ferrothorn, +Musharna, +Chesnaught, +Klawf, +Clodsire, +Overqwil, +Torterra, +Pincurchin, +Eldegoss, +Empoleon, +Marowak-Alola, +Regice, +Feraligatr, +Slurpuff, +Mantine, +Scolipede, +Lucario-Base, +Cacturne
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, !Sleep Moves Clause, Sleep Clause Mod, +Galvantula, +Milotic, +Toxicroak, +Avalugg-Base, +Wormadam-Base, +Crawdaunt, +Vikavolt-Base, +Trapinch, +Grimmsnarl, +Florges, +Ludicolo, +Falinks, +Primeape, +Arbok, +Sceptile-Base, +Silvally-Dragon, +Cobalion, +Ferrothorn, +Musharna, +Chesnaught, +Klawf, +Clodsire, +Overqwil, +Torterra, +Pincurchin, +Eldegoss, +Empoleon, +Marowak-Alola, +Regice, +Feraligatr, +Slurpuff, +Mantine, +Scolipede, +Lucario-Base, +Cacturne
 galvantula
 milotic
 toxicroak

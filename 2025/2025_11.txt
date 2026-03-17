@@ -1,5 +1,5 @@
 Nov 2025
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Silvally-Fairy, +Meowstic, +Dewgong, +Primeape, +Whiscash, +Glalie-Base, +Scovillain, +Simisage, +Tinkaton, +Drifblim, +Pyroar, +Jumpluff, +Heliolisk, +Pupitar, +Ampharos-Base, +Rampardos, +Gumshoos-Base, +Emolga, +Furret, +Arbok, +Ludicolo, +Altaria-Base, +Zangoose, +Swalot, +Calyrex-Base, +Armaldo, +Castform-Base, +Lunatone, +Luxray, +Fearow, +Spidops, +Lycanroc-Midnight, +Kecleon, +Thievul, +Sneasel-Hisui
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, !Sleep Moves Clause, Sleep Clause Mod, +Silvally-Fairy, +Meowstic, +Dewgong, +Primeape, +Whiscash, +Glalie-Base, +Scovillain, +Simisage, +Tinkaton, +Drifblim, +Pyroar, +Jumpluff, +Heliolisk, +Pupitar, +Ampharos-Base, +Rampardos, +Gumshoos-Base, +Emolga, +Furret, +Arbok, +Ludicolo, +Altaria-Base, +Zangoose, +Swalot, +Calyrex-Base, +Armaldo, +Castform-Base, +Lunatone, +Luxray, +Fearow, +Spidops, +Lycanroc-Midnight, +Kecleon, +Thievul, +Sneasel-Hisui
 silvallyfairy
 meowstic
 dewgong
