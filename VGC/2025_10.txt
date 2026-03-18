@@ -1,3 +1,5 @@
 Oct 2025
 parent: 2025/2025_10.txt
 code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Terastal Clause, Force Open Team Sheets, +Dudunsparce, +Muk-Alola, +Ambipom, +Floatzel, +Sandslash-Base, +Perrserker, +Copperajah, +Dugtrio-Alola, +Meganium, +Tauros-Base, +Spinda, +Munkidori, +Basculegion-F, +Farigiraf, +Porygon-Z, +Tauros-Paldea-Aqua, +Corviknight, +Sigilyph, +Nidoking, +Armarouge, +Froslass, +Magmortar, +Zoroark-Base, +Articuno-Base, +Hippowdon, +Orthworm, +Weezing-Galar, +Ninjask, +Sirfetch’d, +Crobat, +Golem-Alola, +Steelix-Base, +Pyukumuku, +Bibarel, +Simisear
+-moltres
++spinda
