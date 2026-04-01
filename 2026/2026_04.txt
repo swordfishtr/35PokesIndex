@@ -1,0 +1,37 @@
+Apr 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Articuno-Base, +Brute Bonnet, +Cacturne, +Clefable-Base, +Cobalion, +Drifblim, +Dugtrio-Base, +Gabite, +Gogoat, +Hariyama, +Hippowdon, +Krookodile, +Lurantis-Base, +Lycanroc-Base, +Mabosstiff, +Minior-Base, +Munkidori, +Passimian, +Pawmot, +Persian-Base, +Raichu-Alola, +Roserade, +Rotom-Heat, +Sandaconda, +Sceptile-Base, +Stoutland, +Stunfisk-Base, +Tentacruel, +Thwackey, +Tinkaton, +Toedscruel, +Tsareena, +Uxie, +Vivillon, +Whiscash
+Articuno
+Brute Bonnet
+Cacturne
+Clefable
+Cobalion
+Drifblim
+Dugtrio
+Gabite
+Gogoat
+Hariyama
+Hippowdon
+Krookodile
+Lurantis
+Lycanroc
+Mabosstiff
+Minior
+Munkidori
+Passimian
+Pawmot
+Persian
+Raichu-Alola
+Roserade
+Rotom-Heat
+Sandaconda
+Sceptile
+Stoutland
+Stunfisk
+Tentacruel
+Thwackey
+Tinkaton
+Toedscruel
+Tsareena
+Uxie
+Vivillon
+Whiscash

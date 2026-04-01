@@ -1,0 +1,3 @@
+Apr 2026
+parent: 2026/2026_04.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Articuno-Base, +Brute Bonnet, +Cacturne, +Clefable-Base, +Cobalion, +Drifblim, +Dugtrio-Base, +Gabite, +Gogoat, +Hariyama, +Hippowdon, +Krookodile, +Lurantis-Base, +Lycanroc-Base, +Mabosstiff, +Minior-Base, +Munkidori, +Passimian, +Pawmot, +Persian-Base, +Raichu-Alola, +Roserade, +Rotom-Heat, +Sandaconda, +Sceptile-Base, +Stoutland, +Stunfisk-Base, +Tentacruel, +Thwackey, +Tinkaton, +Toedscruel, +Tsareena, +Uxie, +Vivillon, +Whiscash
