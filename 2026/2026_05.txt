@@ -1,0 +1,37 @@
+May 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Morpeko-Base, +Dragalge-Base, +Ninetales-Base, +Lumineon, +Malamar-Base, +Tatsugiri-Curly, +Tatsugiri-Droopy, +Tatsugiri-Stretchy, +Furfrou, +Bellossom, +Rhydon, +Rapidash-Galar, +Sandslash-Base, +Xatu, +Zoroark-Base, +Leafeon, +Eiscue-Base, +Ninjask, +Drapion, +Appletun, +Ambipom, +Azumarill, +Floatzel, +Donphan, +Delcatty, +Wugtrio, +Pyukumuku, +Perrserker, +Rabsca, +Quagsire, +Banette-Base, +Mimikyu-Base, +Brambleghast, +Orthworm, +Bruxish, +Klefki, +Salazzle-Base
+morpeko
+dragalge
+ninetales
+lumineon
+malamar
+tatsugiri
+furfrou
+bellossom
+rhydon
+rapidashgalar
+sandslash
+xatu
+zoroark
+leafeon
+eiscue
+ninjask
+drapion
+appletun
+ambipom
+azumarill
+floatzel
+donphan
+delcatty
+wugtrio
+pyukumuku
+perrserker
+rabsca
+quagsire
+banette
+mimikyu
+brambleghast
+orthworm
+bruxish
+klefki
+salazzle

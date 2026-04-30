@@ -1,0 +1,3 @@
+May 2026
+parent: 2026/2026_05.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Morpeko-Base, +Dragalge-Base, +Ninetales-Base, +Lumineon, +Malamar-Base, +Tatsugiri-Curly, +Tatsugiri-Droopy, +Tatsugiri-Stretchy, +Furfrou, +Bellossom, +Rhydon, +Rapidash-Galar, +Sandslash-Base, +Xatu, +Zoroark-Base, +Leafeon, +Eiscue-Base, +Ninjask, +Drapion, +Appletun, +Ambipom, +Azumarill, +Floatzel, +Donphan, +Delcatty, +Wugtrio, +Pyukumuku, +Perrserker, +Rabsca, +Quagsire, +Banette-Base, +Mimikyu-Base, +Brambleghast, +Orthworm, +Bruxish, +Klefki, +Salazzle-Base
