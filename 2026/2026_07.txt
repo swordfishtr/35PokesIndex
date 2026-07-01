@@ -1,0 +1,37 @@
+July 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Aggron-Base, +Lucario-Base, +Slowbro-Base, +Mothim, +Florges, +Seismitoad, +Zebstrika, +Cloyster, +Accelgor, +Carbink, +Heracross-Base, +Mismagius, +Purugly, +Samurott-Base, +Heliolisk, +Heatmor, +Klinklang, +Vaporeon, +Rampardos, +Tyrantrum, +Illumise, +Raticate-Base, +Kricketune, +Vileplume, +Carracosta, +Malamar-Base, +Sudowoodo, +Emboar-Base, +Lanturn, +Seaking, +Mawile-Base, +Zangoose, +Hydreigon, +Clodsire, +Linoone-Base
+Aggron
+Lucario
+Slowbro
+Mothim
+Florges
+Seismitoad
+Zebstrika
+Cloyster
+Accelgor
+Carbink
+Heracross
+Mismagius
+Purugly
+Samurott
+Heliolisk
+Heatmor
+Klinklang
+Vaporeon
+Rampardos
+Tyrantrum
+Illumise
+Raticate
+Kricketune
+Vileplume
+Carracosta
+Malamar
+Sudowoodo
+Emboar
+Lanturn
+Seaking
+Mawile
+Zangoose
+Hydreigon
+Clodsire
+Linoone

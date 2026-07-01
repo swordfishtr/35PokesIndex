@@ -1,0 +1,3 @@
+June 2026
+parent: 2026/2026_06.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Slowbro-Galar, +Ampharos-Base, +Dubwool, +Houndstone, +Arbok, +Swampert-Base, +Sharpedo-Base, +Mesprit, +Beheeyem, +Bombirdier, +Gastrodon, +Torterra, +Cursola, +Weezing-Base, +Seviper, +Virizion, +Cramorant-Base, +Flygon, +Magmortar, +Regice, +Pachirisu, +Milotic, +Ledian, +Jumpluff, +Pincurchin, +Hitmontop, +Slurpuff, +Toxicroak, +Okidogi, +Shiinotic, +Scrafty-Base, +Claydol, +Probopass, +Shiftry, +Sigilyph

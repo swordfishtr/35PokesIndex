@@ -1,0 +1,37 @@
+June 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Slowbro-Galar, +Ampharos-Base, +Dubwool, +Houndstone, +Arbok, +Swampert-Base, +Sharpedo-Base, +Mesprit, +Beheeyem, +Bombirdier, +Gastrodon, +Torterra, +Cursola, +Weezing-Base, +Seviper, +Virizion, +Cramorant-Base, +Flygon, +Magmortar, +Regice, +Pachirisu, +Milotic, +Ledian, +Jumpluff, +Pincurchin, +Hitmontop, +Slurpuff, +Toxicroak, +Okidogi, +Shiinotic, +Scrafty-Base, +Claydol, +Probopass, +Shiftry, +Sigilyph
+slowbrogalar
+ampharos
+dubwool
+houndstone
+arbok
+swampert
+sharpedo
+mesprit
+beheeyem
+bombirdier
+gastrodon
+torterra
+cursola
+weezing
+seviper
+virizion
+cramorant
+flygon
+magmortar
+regice
+pachirisu
+milotic
+ledian
+jumpluff
+pincurchin
+hitmontop
+slurpuff
+toxicroak
+okidogi
+shiinotic
+scrafty
+claydol
+probopass
+shiftry
+sigilyph
