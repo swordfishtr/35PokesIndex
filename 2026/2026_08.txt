@@ -1,0 +1,37 @@
+Aug 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Arcanine-Base, +Arctozolt, +Ariados, +Bibarel, +Ceruledge, +Crabominable-Base, +Cyclizar, +Dachsbun, +Decidueye-Base, +Donphan, +Dragalge-Base, +Espeon, +Exeggutor-Base, +Feraligatr-Base, +Gardevoir-Base, +Garganacl, +Glalie-Base, +Grafaiai, +Kecleon, +Kingler, +Mabosstiff, +Mandibuzz, +Munkidori, +Obstagoon, +Omastar, +Parasect, +Politoed, +Swanna, +Tentacruel, +Trevenant, +Ursaring, +Vikavolt-Base, +Wigglytuff, +Wormadam-Trash, +Yanmega
+Arcanine
+Arctozolt
+Ariados
+Bibarel
+Ceruledge
+Crabominable
+Cyclizar
+Dachsbun
+Decidueye
+Donphan
+Dragalge
+Espeon
+Exeggutor
+Feraligatr
+Gardevoir
+Garganacl
+Glalie
+Grafaiai
+Kecleon
+Kingler
+Mabosstiff
+Mandibuzz
+Munkidori
+Obstagoon
+Omastar
+Parasect
+Politoed
+Swanna
+Tentacruel
+Trevenant
+Ursaring
+Vikavolt
+Wigglytuff
+Wormadam-Trash
+Yanmega

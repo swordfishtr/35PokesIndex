@@ -1,0 +1,3 @@
+Aug 2026
+parent: 2026/2026_08.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Arcanine-Base, +Arctozolt, +Ariados, +Bibarel, +Ceruledge, +Crabominable-Base, +Cyclizar, +Dachsbun, +Decidueye-Base, +Donphan, +Dragalge-Base, +Espeon, +Exeggutor-Base, +Feraligatr-Base, +Gardevoir-Base, +Garganacl, +Glalie-Base, +Grafaiai, +Kecleon, +Kingler, +Mabosstiff, +Mandibuzz, +Munkidori, +Obstagoon, +Omastar, +Parasect, +Politoed, +Swanna, +Tentacruel, +Trevenant, +Ursaring, +Vikavolt-Base, +Wigglytuff, +Wormadam-Trash, +Yanmega

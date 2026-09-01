@@ -1,0 +1,3 @@
+Sep 2026
+parent: 2026/2026_09.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Araquanid-Base, +Arcanine-Hisui, +Archeops, +Bellossom, +Boltund, +Escavalier, +Farigiraf, +Gothitelle, +Gyarados-Base, +Kabutops, +Kilowattrel, +Klawf, +Magmortar, +Mamoswine, +Metagross-Base, +Miltank, +Oricorio-Base, +Orthworm, +Persian-Base, +Pinsir-Base, +Polteageist, +Pyukumuku, +Rotom-Mow, +Scizor-Base, +Shiftry, +Simisear, +Skarmory-Base, +Slowbro-Galar, +Slurpuff, +Thievul, +Torkoal, +Toxtricity-Base, +Turtonator, +Tyranitar-Base, +Wailord
