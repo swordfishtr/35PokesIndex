@@ -1,5 +1,5 @@
 Sep 2026
-code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Araquanid-Base, +Arcanine-Hisui, +Archeops, +Bellossom, +Boltund, +Escavalier, +Farigiraf, +Gothitelle, +Gyarados-Base, +Kabutops, +Kilowattrel, +Klawf, +Magmortar, +Mamoswine, +Metagross-Base, +Miltank, +Oricorio-Base, +Orthworm, +Persian-Base, +Pinsir-Base, +Polteageist, +Pyukumuku, +Rotom-Mow, +Scizor-Base, +Shiftry, +Simisear, +Skarmory-Base, +Slowbro-Galar, +Slurpuff, +Thievul, +Torkoal, +Toxtricity-Base, +Turtonator, +Tyranitar-Base, +Wailord
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Araquanid-Base, +Archeops, +Bellossom, +Boltund, +Escavalier, +Farigiraf, +Fezandipiti, +Gothitelle, +Gyarados-Base, +Kabutops, +Kilowattrel, +Klawf, +Magmortar, +Mamoswine, +Metagross-Base, +Miltank, +Oricorio-Base, +Orthworm, +Persian-Base, +Pinsir-Base, +Polteageist, +Pyukumuku, +Rotom-Mow, +Scizor-Base, +Shiftry, +Simisear, +Skarmory-Base, +Slowbro-Galar, +Slurpuff, +Thievul, +Torkoal, +Toxtricity-Base, +Turtonator, +Tyranitar-Base, +Wailord
 scizor
 rotommow
 turtonator
@@ -10,7 +10,7 @@ mamoswine
 wailord
 boltund
 farigiraf
-arcaninehisui
+fezandipiti
 metagross
 kilowattrel
 shiftry
