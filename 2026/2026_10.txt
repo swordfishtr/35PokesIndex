@@ -1,0 +1,37 @@
+Oct 2026
+code: /challenge gen9nationaldex35pokes @@@ -All Pokemon, +Unobtainable, +Past, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, +Abomasnow, +Altaria, +Ampharos, +Appletun, +Arboliva, +Avalugg-Base, +Brambleghast, +Dewgong, +Dusknoir, +Eelektross, +Florges, +Gastrodon, +Golem-Base, +Granbull, +Grumpig, +Hariyama, +Hitmontop, +Honchkrow, +Klefki, +Luvdisc, +Lycanroc-Base, +Maushold, +Mimikyu-Base, +Morpeko, +Oinkologne-Base, +Primeape, +Raticate-Base, +Spidops, +Spiritomb, +Sudowoodo, +Swalot, +Tatsugiri, +Thwackey, +Trapinch, +Wyrdeer
+raticate
+lycanroc
+granbull
+avalugg
+honchkrow
+oinkologne
+wyrdeer
+appletun
+primeape
+swalot
+dusknoir
+golem
+ampharos
+thwackey
+spiritomb
+mimikyu
+klefki
+grumpig
+arboliva
+eelektross
+abomasnow
+luvdisc
+hitmontop
+maushold
+altaria
+hariyama
+spidops
+gastrodon
+morpeko
+sudowoodo
+tatsugiri
+dewgong
+trapinch
+florges
+brambleghast
