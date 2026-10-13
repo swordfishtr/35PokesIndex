@@ -1,0 +1,3 @@
+Oct 2026
+parent: 2026/2026_10.txt
+code: /challenge vgc2026regf @@@ -All Pokemon, +Unobtainable, +Past, !!Min Source Gen = 1, Best Of = 3, -ND Uber, -ND AG, -ND OU, -ND UUBL, -ND UU, -ND RUBL, -ND RU, -ND NFE, -ND LC, Force Open Team Sheets, +Abomasnow, +Altaria, +Ampharos, +Appletun, +Arboliva, +Avalugg-Base, +Brambleghast, +Dewgong, +Dusknoir, +Eelektross, +Florges, +Gastrodon, +Golem-Base, +Granbull, +Grumpig, +Hariyama, +Hitmontop, +Honchkrow, +Klefki, +Luvdisc, +Lycanroc-Base, +Maushold, +Mimikyu-Base, +Morpeko, +Oinkologne-Base, +Primeape, +Raticate-Base, +Spidops, +Spiritomb, +Sudowoodo, +Swalot, +Tatsugiri, +Thwackey, +Trapinch, +Wyrdeer
